@@ -47,7 +47,7 @@ def plot_on_map(filename="counts.csv"):
 def plot_ems(filename="ems_with_nearest_hospital.csv"):
 	df = pd.read_csv(filename)
 
-	color_scale = [(0, "green"), (0.01, "rgb(192, 128, 0)"), (1, "red")]
+	color_scale = [(0, "green"), (0.2, "rgb(192, 128, 0)"), (1, "red")]
 
 	fig = px.scatter_mapbox(df, 
 	                        lat="lat", 
@@ -58,7 +58,8 @@ def plot_ems(filename="ems_with_nearest_hospital.csv"):
 	                        color="distance",
 	                        color_continuous_scale=color_scale,
 	                        height=800,
-	                        width=800)
+	                        width=800,
+	                        range_color=[0,10])
 
 	hospitals = pd.read_csv("relevant_hospitals.csv")
 	fig2 = px.scatter_mapbox(hospitals,
@@ -95,7 +96,7 @@ def hospital_locations():
 def distance(csv_line1, csv_line2):
 	la1, lo1 = csv_line1.split(",")[:2]
 	la2, lo2 = csv_line2.split(",")[:2]
-	return abs(float(la1) - float(la2)) + abs(float(lo1) - float(lo2))
+	return abs(float(la1)*69 - float(la2)*69) + abs(float(lo1)*54.6 - float(lo2)*54.6)
 
 def nearest_hospital():
 	hospitals = open("relevant_hospitals.csv").read().split("\n")[1:-1]
@@ -107,5 +108,6 @@ def nearest_hospital():
 			f.write(f"{loc},{d}\n")
 
 # hospital_locations()
+nearest_hospital()
 plot_ems()
 # nearest_hospital()
