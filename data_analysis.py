@@ -1,4 +1,5 @@
 from dbfread import DBF
+from thefuzz import fuzz
 import plotly.express as px
 import pandas as pd
 
@@ -107,7 +108,53 @@ def nearest_hospital():
 			d = min([distance(loc, hosp) for hosp in hospitals if loc and hosp])
 			f.write(f"{loc},{d}\n")
 
+def nearest_hospital_with_beds():
+	hospitals = open("relevant_hospitals.csv").read().split("\n")[1:-1]
+	beds = open("bed_counts.csv").read().split("\n")[1:-1]
+	hospital_names = [h.split(",")[2] for h in hospitals]
+
+	bed_names = {}
+	for bed in beds:
+		name, count = bed.split(",")
+		closest = max(hospital_names, key = lambda arg: fuzz.token_set_ratio(arg, name))
+		# print(f"Matched {name} to: \n{closest}")
+		conflict = closest in bed_names
+		if conflict:
+			print(f"Conflict between new:\n{name} and old:\n{bed_names[closest]} for\n {closest}")
+			choice = input("Please enter 0 for old option and 1 for new\n")
+			if choice == "1":
+				bed_names[closest] = (name, count)
+		else:
+			bed_names[closest] = (name, count)
+		# bed_names[closest] = max(((name, count), *bed_names.get(closest, set())), key = lambda arg: fuzz.token_set_ratio(arg[0], name))
+		# if conflict:
+		# 	print(f"Resolved to \n{bed_names[closest]}")
+
+	c = 0
+	with open("hospitals_with_beds.csv", "w") as f:
+		f.write("lat,long,name,beds\n")
+		for hospital in hospitals:
+			found = False
+			lat, lon, name = hospital.split(",")
+			for hosp, count in bed_names.items():
+				if name == hosp:
+					f.write(f"{hospital},{count[1]}\n")
+					c += 1
+					break
+	print(f"Found {str(c)} matches")
+
+
+def longest_common_substring(name, candidate):
+	dp = [[0 for j in range(len(candidate) + 1)] for i in range(len(name) + 1)]
+	for i in range(1, len(name) + 1):
+		for j in range(1, len(candidate) + 1):
+			include = int(name[i] == candidate[j])
+			dp[i + 1][j + 1] = max(dp[i][j] + include, dp[i - 1][j], dp[i][j - 1])
+	return dp[-1][-1]
+
+
 # hospital_locations()
-nearest_hospital()
-plot_ems()
 # nearest_hospital()
+# plot_ems()
+# nearest_hospital()
+# nearest_hospital_with_beds()
