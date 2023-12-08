@@ -1,1086 +1,724 @@
-('Lincoln Medical & Mental Health Center', [40.8183, -73.9426]): 0.0
-('Harlem Hospital Center', [40.8183, -73.9426]): 130352.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8183, -73.9426]): 0.0
-('Mount Sinai Hospital', [40.7918, -73.9447]): 0.0
-('Harlem Hospital Center', [40.7918, -73.9447]): 0.0
-('Metropolitan Hospital Center', [40.7918, -73.9447]): 351330.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7443, -73.9781]): 0.0
-('Bellevue Hospital Center', [40.7443, -73.9781]): 0.0
-('Hospital for Special Surgery', [40.7443, -73.9781]): 0.0
-('NYU Hospitals Center', [40.7443, -73.9781]): 218869.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7443, -73.9781]): 0.0
-('Interfaith Medical Center', [40.67, -73.9367]): 238789.0
-('Kings County Hospital Center', [40.67, -73.9367]): 0.0
-('Kingsbrook Jewish Medical Center', [40.67, -73.9367]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7571, -73.9657]): 0.0
-('Hospital for Special Surgery', [40.7571, -73.9657]): 130662.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7571, -73.9657]): 0.0
-('Lenox Hill Hospital', [40.7571, -73.9657]): 0.0
-('Brookdale Hospital Medical Center', [40.6762, -73.8736]): 0.0
-('Woodhull Medical & Mental Health Center', [40.6762, -73.8736]): 0.0
-('University Hospital of Brooklyn', [40.6762, -73.8736]): 0.0
-('Interfaith Medical Center', [40.6762, -73.8736]): 360319.0
-('Elmhurst Hospital Center', [40.6762, -73.8736]): 0.0
-('Kings County Hospital Center', [40.6762, -73.8736]): 0.0
-('Wyckoff Heights Medical Center', [40.6762, -73.8736]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6762, -73.8736]): 0.0
-('Jamaica Hospital Medical Center', [40.6762, -73.8736]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8153, -73.9072]): 248040.0
-('Harlem Hospital Center', [40.8153, -73.9072]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8153, -73.9072]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8261, -73.8196]): 0.0
-('Calvary Hospital Inc', [40.8261, -73.8196]): 105622.0
-('Jacobi Medical Center', [40.8261, -73.8196]): 0.0
-('Richmond University Medical Center', [40.6251, -74.0303]): 0.0
-('Maimonides Medical Center', [40.6251, -74.0303]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6251, -74.0303]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6251, -74.0303]): 138246.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7651, -73.9858]): 0.0
-('Hospital for Special Surgery', [40.7651, -73.9858]): 216624.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7651, -73.9858]): 0.0
-('Lenox Hill Hospital', [40.7651, -73.9858]): 0.0
-('Woodhull Medical & Mental Health Center', [40.7006, -73.918]): 0.0
-('Interfaith Medical Center', [40.7006, -73.918]): 0.0
-('Wyckoff Heights Medical Center', [40.7006, -73.918]): 146925.0
-('Lincoln Medical & Mental Health Center', [40.8496, -73.9356]): 0.0
-('Harlem Hospital Center', [40.8496, -73.9356]): 0.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.8496, -73.9356]): 172854.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8496, -73.9356]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7152, -73.9877]): 0.0
-('Bellevue Hospital Center', [40.7152, -73.9877]): 0.0
-('Long Island College Hospital', [40.7152, -73.9877]): 300531.0
-('NYU Hospitals Center', [40.7152, -73.9877]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7166, -74.0146]): 0.0
-('Bellevue Hospital Center', [40.7166, -74.0146]): 0.0
-('Long Island College Hospital', [40.7166, -74.0146]): 8884.0
-('Bellevue Hospital Center', [40.7255, -73.9983]): 0.0
-('Long Island College Hospital', [40.7255, -73.9983]): 80061.0
-('NYU Hospitals Center', [40.7255, -73.9983]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7375, -73.9813]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7375, -73.9813]): 0.0
-('Bellevue Hospital Center', [40.7375, -73.9813]): 112349.0
-('Hospital for Special Surgery', [40.7375, -73.9813]): 0.0
-('NYU Hospitals Center', [40.7375, -73.9813]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7375, -73.9813]): 0.0
-('Lenox Hill Hospital', [40.7375, -73.9813]): 0.0
-('Richmond University Medical Center', [40.5682, -74.1184]): 0.0
-('Staten Island University Hosp-North', [40.5682, -74.1184]): 0.0
-('Coney Island Hospital', [40.5682, -74.1184]): 0.0
-('Staten Island University Hosp-South', [40.5682, -74.1184]): 119121.0
-('Woodhull Medical & Mental Health Center', [40.6907, -73.9274]): 0.0
-('Interfaith Medical Center', [40.6907, -73.9274]): 318281.0
-('Wyckoff Heights Medical Center', [40.6907, -73.9274]): 0.0
-('Woodhull Medical & Mental Health Center', [40.7012, -73.9436]): 306932.0
-('Interfaith Medical Center', [40.7012, -73.9436]): 0.0
-('Wyckoff Heights Medical Center', [40.7012, -73.9436]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7143, -74.006]): 0.0
-('Bellevue Hospital Center', [40.7143, -74.006]): 0.0
-('Long Island College Hospital', [40.7143, -74.006]): 37941.0
-('NYU Hospitals Center', [40.7143, -74.006]): 0.0
-('Brookdale Hospital Medical Center', [40.6769, -73.8448]): 0.0
-('Interfaith Medical Center', [40.6769, -73.8448]): 64774.0
-('Queens Hospital Center', [40.6769, -73.8448]): 0.0
-('Jamaica Hospital Medical Center', [40.6769, -73.8448]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7185, -74.0025]): 0.0
-('Bellevue Hospital Center', [40.7185, -74.0025]): 0.0
-('Long Island College Hospital', [40.7185, -74.0025]): 152938.0
-('NYU Hospitals Center', [40.7185, -74.0025]): 0.0
-('New York Community Hospital of     Brooklyn', [40.5923, -73.7933]): 0.0
-('Coney Island Hospital', [40.5923, -73.7933]): 0.0
-('Queens Hospital Center', [40.5923, -73.7933]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.5923, -73.7933]): 62810.0
-('Beth Israel Med Center-Kings Hwy Div', [40.5923, -73.7933]): 0.0
-('Jamaica Hospital Medical Center', [40.5923, -73.7933]): 0.0
-('Maimonides Medical Center', [40.6174, -74.0121]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6174, -74.0121]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6174, -74.0121]): 62103.0
-('Flushing Hospital Medical Center', [40.7374, -73.7951]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7374, -73.7951]): 61603.0
-('Queens Hospital Center', [40.7374, -73.7951]): 0.0
-('Richmond University Medical Center', [40.6039, -74.1472]): 164673.0
-('Maimonides Medical Center', [40.6039, -74.1472]): 0.0
-('Staten Island University Hosp-North', [40.6039, -74.1472]): 0.0
-('Staten Island University Hosp-South', [40.6039, -74.1472]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7313, -73.9892]): 0.0
-('Bellevue Hospital Center', [40.7313, -73.9892]): 0.0
-('Long Island College Hospital', [40.7313, -73.9892]): 240348.0
-('NYU Hospitals Center', [40.7313, -73.9892]): 0.0
-('Mount Sinai Hospital', [40.7764, -73.9827]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7764, -73.9827]): 0.0
-('Hospital for Special Surgery', [40.7764, -73.9827]): 126975.0
-('Metropolitan Hospital Center', [40.7764, -73.9827]): 0.0
-('NYU Hospitals Center', [40.7764, -73.9827]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7764, -73.9827]): 0.0
-('Lenox Hill Hospital', [40.7764, -73.9827]): 0.0
-('Flushing Hospital Medical Center', [40.6868, -73.823]): 0.0
-('New York Hospital Medical Center   of Queens', [40.6868, -73.823]): 0.0
-('Queens Hospital Center', [40.6868, -73.823]): 0.0
-('Jamaica Hospital Medical Center', [40.6868, -73.823]): 104352.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.8662, -73.9003]): 0.0
-('North Central Bronx Hospital', [40.8662, -73.9003]): 0.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.8662, -73.9003]): 288434.0
-('Elmhurst Hospital Center', [40.7446, -73.9345]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7446, -73.9345]): 0.0
-('Bellevue Hospital Center', [40.7446, -73.9345]): 0.0
-('Hospital for Special Surgery', [40.7446, -73.9345]): 163012.0
-('NYU Hospitals Center', [40.7446, -73.9345]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7446, -73.9345]): 0.0
-('Bellevue Hospital Center', [40.7402, -73.9996]): 0.0
-('Long Island College Hospital', [40.7402, -73.9996]): 186658.0
-('NYU Hospitals Center', [40.7402, -73.9996]): 0.0
-('Maimonides Medical Center', [40.6336, -73.996]): 99425.0
-('New York Community Hospital of     Brooklyn', [40.6336, -73.996]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.6336, -73.996]): 0.0
-('New York Methodist Hospital', [40.6336, -73.996]): 0.0
-('University Hospital of Brooklyn', [40.6336, -73.996]): 0.0
-('Coney Island Hospital', [40.6336, -73.996]): 0.0
-('Long Island College Hospital', [40.6336, -73.996]): 0.0
-('Kings County Hospital Center', [40.6336, -73.996]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6336, -73.996]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6336, -73.996]): 0.0
-('Brookdale Hospital Medical Center', [40.6838, -73.8514]): 0.0
-('Interfaith Medical Center', [40.6838, -73.8514]): 53509.0
-('Queens Hospital Center', [40.6838, -73.8514]): 0.0
-('Wyckoff Heights Medical Center', [40.6838, -73.8514]): 0.0
-('Jamaica Hospital Medical Center', [40.6838, -73.8514]): 0.0
-('Mount Sinai Hospital', [40.8085, -73.9198]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8085, -73.9198]): 242026.0
-('Harlem Hospital Center', [40.8085, -73.9198]): 0.0
-('Metropolitan Hospital Center', [40.8085, -73.9198]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8085, -73.9198]): 0.0
-('Flushing Hospital Medical Center', [40.7119, -73.7944]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7119, -73.7944]): 0.0
-('Queens Hospital Center', [40.7119, -73.7944]): 210391.0
-('Jamaica Hospital Medical Center', [40.7119, -73.7944]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.679, -73.9644]): 0.0
-('New York Methodist Hospital', [40.679, -73.9644]): 0.0
-('Interfaith Medical Center', [40.679, -73.9644]): 153829.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8194, -73.8606]): 0.0
-('Calvary Hospital Inc', [40.8194, -73.8606]): 217886.0
-('Lincoln Medical & Mental Health Center', [40.8194, -73.8606]): 0.0
-('Jacobi Medical Center', [40.8194, -73.8606]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.6816, -73.9798]): 148602.0
-('New York Methodist Hospital', [40.6816, -73.9798]): 0.0
-('Long Island College Hospital', [40.6816, -73.9798]): 0.0
-('Flushing Hospital Medical Center', [40.6775, -73.7758]): 0.0
-('New York Hospital Medical Center   of Queens', [40.6775, -73.7758]): 0.0
-('Queens Hospital Center', [40.6775, -73.7758]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.6775, -73.7758]): 197771.0
-('Jamaica Hospital Medical Center', [40.6775, -73.7758]): 0.0
-('Brookdale Hospital Medical Center', [40.6705, -73.894]): 456583.0
-('University Hospital of Brooklyn', [40.6705, -73.894]): 0.0
-('Interfaith Medical Center', [40.6705, -73.894]): 0.0
-('Kings County Hospital Center', [40.6705, -73.894]): 0.0
-('Wyckoff Heights Medical Center', [40.6705, -73.894]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6705, -73.894]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7143, -74.006]): 0.0
-('Bellevue Hospital Center', [40.7143, -74.006]): 0.0
-('Long Island College Hospital', [40.7143, -74.006]): 46859.0
-('NYU Hospitals Center', [40.7143, -74.006]): 0.0
-('Brookdale Hospital Medical Center', [40.6625, -73.9145]): 432004.0
-('University Hospital of Brooklyn', [40.6625, -73.9145]): 0.0
-('Interfaith Medical Center', [40.6625, -73.9145]): 0.0
-('Kings County Hospital Center', [40.6625, -73.9145]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6625, -73.9145]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8316, -73.9099]): 472473.0
-('Harlem Hospital Center', [40.8316, -73.9099]): 0.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.8316, -73.9099]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8316, -73.9099]): 0.0
-('Maimonides Medical Center', [40.6016, -73.9968]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6016, -73.9968]): 166036.0
-('Coney Island Hospital', [40.6016, -73.9968]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.852, -73.9129]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.852, -73.9129]): 0.0
-('Lincoln Medical & Mental Health Center', [40.852, -73.9129]): 0.0
-('North Central Bronx Hospital', [40.852, -73.9129]): 0.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.852, -73.9129]): 366863.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.852, -73.9129]): 0.0
-('New York Community Hospital of     Brooklyn', [40.5839, -73.9536]): 0.0
-('Coney Island Hospital', [40.5839, -73.9536]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.5839, -73.9536]): 215003.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7262, -73.9796]): 212803.0
-('Bellevue Hospital Center', [40.7262, -73.9796]): 0.0
-('NYU Hospitals Center', [40.7262, -73.9796]): 0.0
-('Mount Sinai Hospital', [40.8116, -73.955]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8116, -73.955]): 0.0
-('Harlem Hospital Center', [40.8116, -73.955]): 288315.0
-('Metropolitan Hospital Center', [40.8116, -73.955]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.8409, -73.8794]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8409, -73.8794]): 0.0
-('Calvary Hospital Inc', [40.8409, -73.8794]): 288656.0
-('Brookdale Hospital Medical Center', [40.5766, -73.8428]): 0.0
-('New York Community Hospital of     Brooklyn', [40.5766, -73.8428]): 0.0
-('Coney Island Hospital', [40.5766, -73.8428]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.5766, -73.8428]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.5766, -73.8428]): 51178.0
-('Jamaica Hospital Medical Center', [40.5766, -73.8428]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7597, -73.9918]): 0.0
-('Bellevue Hospital Center', [40.7597, -73.9918]): 0.0
-('Hospital for Special Surgery', [40.7597, -73.9918]): 236760.0
-('NYU Hospitals Center', [40.7597, -73.9918]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7597, -73.9918]): 0.0
-('Lenox Hill Hospital', [40.7597, -73.9918]): 0.0
-('Maimonides Medical Center', [40.6467, -73.957]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6467, -73.957]): 0.0
-('New York Methodist Hospital', [40.6467, -73.957]): 0.0
-('University Hospital of Brooklyn', [40.6467, -73.957]): 0.0
-('Kings County Hospital Center', [40.6467, -73.957]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6467, -73.957]): 323462.0
-('Kingsbrook Jewish Medical Center', [40.6467, -73.957]): 0.0
-('Maimonides Medical Center', [40.6521, -74.0018]): 0.0
-('New York Methodist Hospital', [40.6521, -74.0018]): 0.0
-('University Hospital of Brooklyn', [40.6521, -74.0018]): 0.0
-('Long Island College Hospital', [40.6521, -74.0018]): 74182.0
-('Kings County Hospital Center', [40.6521, -74.0018]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8382, -73.942]): 0.0
-('Harlem Hospital Center', [40.8382, -73.942]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8382, -73.942]): 211657.0
-('Lincoln Medical & Mental Health Center', [40.8222, -73.9217]): 310546.0
-('Harlem Hospital Center', [40.8222, -73.9217]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8222, -73.9217]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.8633, -73.8895]): 0.0
-('North Central Bronx Hospital', [40.8633, -73.8895]): 346434.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.8633, -73.8895]): 0.0
-('New York Community Hospital of     Brooklyn', [40.5979, -73.9743]): 0.0
-('Coney Island Hospital', [40.5979, -73.9743]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.5979, -73.9743]): 136925.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7484, -73.9967]): 0.0
-('Bellevue Hospital Center', [40.7484, -73.9967]): 0.0
-('Hospital for Special Surgery', [40.7484, -73.9967]): 278508.0
-('NYU Hospitals Center', [40.7484, -73.9967]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7484, -73.9967]): 0.0
-('Lenox Hill Hospital', [40.7484, -73.9967]): 0.0
-('Flushing Hospital Medical Center', [40.7351, -73.8776]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7351, -73.8776]): 0.0
-('Elmhurst Hospital Center', [40.7351, -73.8776]): 172659.0
-('Queens Hospital Center', [40.7351, -73.8776]): 0.0
-('Wyckoff Heights Medical Center', [40.7351, -73.8776]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7763, -73.9529]): 0.0
-('Hospital for Special Surgery', [40.7763, -73.9529]): 81177.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7763, -73.9529]): 0.0
-('Lenox Hill Hospital', [40.7763, -73.9529]): 0.0
-('Mount Sinai Hospital', [40.7808, -73.9772]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7808, -73.9772]): 0.0
-('Hospital for Special Surgery', [40.7808, -73.9772]): 0.0
-('Metropolitan Hospital Center', [40.7808, -73.9772]): 2844.0
-('NYU Hospitals Center', [40.7808, -73.9772]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7808, -73.9772]): 0.0
-('Lenox Hill Hospital', [40.7808, -73.9772]): 0.0
-('Brookdale Hospital Medical Center', [40.6784, -73.9211]): 0.0
-('Woodhull Medical & Mental Health Center', [40.6784, -73.9211]): 0.0
-('Interfaith Medical Center', [40.6784, -73.9211]): 344292.0
-('Wyckoff Heights Medical Center', [40.6784, -73.9211]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6784, -73.9211]): 0.0
-('Flushing Hospital Medical Center', [40.7513, -73.883]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7513, -73.883]): 0.0
-('Elmhurst Hospital Center', [40.7513, -73.883]): 148612.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7513, -73.883]): 0.0
-('Wyckoff Heights Medical Center', [40.7513, -73.883]): 0.0
-('Hospital for Special Surgery', [40.7513, -73.883]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7513, -73.883]): 0.0
-('Richmond University Medical Center', [40.6306, -74.1379]): 54144.0
-('Maimonides Medical Center', [40.6306, -74.1379]): 0.0
-('Staten Island University Hosp-North', [40.6306, -74.1379]): 0.0
-('Brookdale Hospital Medical Center', [40.7036, -73.8961]): 0.0
-('Woodhull Medical & Mental Health Center', [40.7036, -73.8961]): 0.0
-('Elmhurst Hospital Center', [40.7036, -73.8961]): 0.0
-('Wyckoff Heights Medical Center', [40.7036, -73.8961]): 178561.0
-('Lincoln Medical & Mental Health Center', [40.8265, -73.9383]): 0.0
-('Harlem Hospital Center', [40.8265, -73.9383]): 111200.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8265, -73.9383]): 0.0
-('Woodhull Medical & Mental Health Center', [40.7095, -73.9563]): 137724.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7095, -73.9563]): 0.0
-('Wyckoff Heights Medical Center', [40.7095, -73.9563]): 0.0
-('Mount Sinai Hospital', [40.8019, -73.9531]): 0.0
-('Harlem Hospital Center', [40.8019, -73.9531]): 0.0
-('Metropolitan Hospital Center', [40.8019, -73.9531]): 144605.0
-('Flushing Hospital Medical Center', [40.7142, -73.7677]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7142, -73.7677]): 0.0
-('Queens Hospital Center', [40.7142, -73.7677]): 66764.0
-('Jamaica Hospital Medical Center', [40.7142, -73.7677]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.8798, -73.9067]): 0.0
-('North Central Bronx Hospital', [40.8798, -73.9067]): 0.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.8798, -73.9067]): 182678.0
-('Mount Sinai Hospital', [40.7975, -73.9683]): 0.0
-('Harlem Hospital Center', [40.7975, -73.9683]): 0.0
-('Metropolitan Hospital Center', [40.7975, -73.9683]): 259923.0
-('Lenox Hill Hospital', [40.7975, -73.9683]): 0.0
-('Bellevue Hospital Center', [40.7339, -74.0054]): 0.0
-('Long Island College Hospital', [40.7339, -74.0054]): 90254.0
-('NYU Hospitals Center', [40.7339, -74.0054]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6281, -73.9467]): 0.0
-('University Hospital of Brooklyn', [40.6281, -73.9467]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6281, -73.9467]): 131540.0
-('Woodhull Medical & Mental Health Center', [40.6794, -73.9496]): 0.0
-('Interfaith Medical Center', [40.6794, -73.9496]): 227292.0
-('Kings County Hospital Center', [40.6794, -73.9496]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8246, -73.9507]): 0.0
-('Harlem Hospital Center', [40.8246, -73.9507]): 183444.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8246, -73.9507]): 0.0
-('Flushing Hospital Medical Center', [40.6969, -73.7877]): 0.0
-('New York Hospital Medical Center   of Queens', [40.6969, -73.7877]): 0.0
-('Queens Hospital Center', [40.6969, -73.7877]): 0.0
-('Wyckoff Heights Medical Center', [40.6969, -73.7877]): 0.0
-('Jamaica Hospital Medical Center', [40.6969, -73.7877]): 137088.0
-('Maimonides Medical Center', [40.5767, -73.9884]): 0.0
-('New York Community Hospital of     Brooklyn', [40.5767, -73.9884]): 0.0
-('Coney Island Hospital', [40.5767, -73.9884]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.5767, -73.9884]): 235460.0
-('Mount Sinai Hospital', [40.8139, -73.8841]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.8139, -73.8841]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8139, -73.8841]): 0.0
-('Calvary Hospital Inc', [40.8139, -73.8841]): 81644.0
-('Lincoln Medical & Mental Health Center', [40.8139, -73.8841]): 0.0
-('Elmhurst Hospital Center', [40.8139, -73.8841]): 0.0
-('Jacobi Medical Center', [40.8139, -73.8841]): 0.0
-('Harlem Hospital Center', [40.8139, -73.8841]): 0.0
-('North Central Bronx Hospital', [40.8139, -73.8841]): 0.0
-('Metropolitan Hospital Center', [40.8139, -73.8841]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8139, -73.8841]): 0.0
-('Flushing Hospital Medical Center', [40.7453, -73.8611]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7453, -73.8611]): 196269.0
-('Elmhurst Hospital Center', [40.7453, -73.8611]): 0.0
-('New York Hospital Medical Center   of Queens', [40.6744, -73.819]): 0.0
-('Queens Hospital Center', [40.6744, -73.819]): 0.0
-('Jamaica Hospital Medical Center', [40.6744, -73.819]): 93436.0
-('Elmhurst Hospital Center', [40.745, -73.9069]): 145607.0
-('Wyckoff Heights Medical Center', [40.745, -73.9069]): 0.0
-('NYU Hospitals Center', [40.745, -73.9069]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6225, -73.965]): 0.0
-('Coney Island Hospital', [40.6225, -73.965]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6225, -73.965]): 140523.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8434, -73.8602]): 0.0
-('Calvary Hospital Inc', [40.8434, -73.8602]): 225828.0
-('Jacobi Medical Center', [40.8434, -73.8602]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8247, -73.894]): 282523.0
-('Harlem Hospital Center', [40.8247, -73.894]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8247, -73.894]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7101, -74.0013]): 0.0
-('Bellevue Hospital Center', [40.7101, -74.0013]): 0.0
-('Long Island College Hospital', [40.7101, -74.0013]): 80725.0
-('NYU Hospitals Center', [40.7101, -74.0013]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.8904, -73.8503]): 0.0
-('Jacobi Medical Center', [40.8904, -73.8503]): 0.0
-('North Central Bronx Hospital', [40.8904, -73.8503]): 213186.0
-('Mount Sinai Hospital', [40.8011, -73.9371]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8011, -73.9371]): 0.0
-('Harlem Hospital Center', [40.8011, -73.9371]): 0.0
-('Metropolitan Hospital Center', [40.8011, -73.9371]): 344343.0
-('Lincoln Medical & Mental Health Center', [40.8583, -73.9296]): 0.0
-('Harlem Hospital Center', [40.8583, -73.9296]): 0.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.8583, -73.9296]): 103454.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8583, -73.9296]): 0.0
-('Richmond University Medical Center', [40.5457, -74.1792]): 0.0
-('Staten Island University Hosp-North', [40.5457, -74.1792]): 0.0
-('Staten Island University Hosp-South', [40.5457, -74.1792]): 81974.0
-('Richmond University Medical Center', [40.6102, -74.0878]): 130166.0
-('Maimonides Medical Center', [40.6102, -74.0878]): 0.0
-('Staten Island University Hosp-North', [40.6102, -74.0878]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7547, -73.9925]): 0.0
-('Bellevue Hospital Center', [40.7547, -73.9925]): 0.0
-('NYU Hospitals Center', [40.7547, -73.9925]): 148538.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7547, -73.9925]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.7855, -73.845]): 0.0
-('Flushing Hospital Medical Center', [40.7855, -73.845]): 0.0
-('Calvary Hospital Inc', [40.7855, -73.845]): 33310.0
-('New York Hospital Medical Center   of Queens', [40.7855, -73.845]): 0.0
-('Elmhurst Hospital Center', [40.7855, -73.845]): 0.0
-('Jacobi Medical Center', [40.7855, -73.845]): 0.0
-('Metropolitan Hospital Center', [40.7855, -73.845]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8376, -73.9216]): 327719.0
-('Harlem Hospital Center', [40.8376, -73.9216]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8376, -73.9216]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7229, -73.8473]): 117866.0
-('Elmhurst Hospital Center', [40.7229, -73.8473]): 0.0
-('Queens Hospital Center', [40.7229, -73.8473]): 0.0
-('Jamaica Hospital Medical Center', [40.7229, -73.8473]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.8737, -73.8712]): 0.0
-('Jacobi Medical Center', [40.8737, -73.8712]): 0.0
-('North Central Bronx Hospital', [40.8737, -73.8712]): 359743.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.8737, -73.8712]): 0.0
-('University Hospital of Brooklyn', [40.6451, -73.945]): 50095.0
-('Kings County Hospital Center', [40.6451, -73.945]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6451, -73.945]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6451, -73.945]): 0.0
-('Woodhull Medical & Mental Health Center', [40.7085, -74.0135]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7085, -74.0135]): 0.0
-('New York Methodist Hospital', [40.7085, -74.0135]): 0.0
-('Bellevue Hospital Center', [40.7085, -74.0135]): 0.0
-('Long Island College Hospital', [40.7085, -74.0135]): 13123.0
-('NYU Hospitals Center', [40.7085, -74.0135]): 0.0
-('Queens Hospital Center', [40.6621, -73.7353]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.6621, -73.7353]): 56805.0
-('Jamaica Hospital Medical Center', [40.6621, -73.7353]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.8662, -73.9221]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8662, -73.9221]): 0.0
-('North Central Bronx Hospital', [40.8662, -73.9221]): 0.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.8662, -73.9221]): 110081.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8662, -73.9221]): 0.0
-('Maimonides Medical Center', [40.6669, -73.9828]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.6669, -73.9828]): 0.0
-('New York Methodist Hospital', [40.6669, -73.9828]): 119899.0
-('Long Island College Hospital', [40.6669, -73.9828]): 0.0
-('Brookdale Hospital Medical Center', [40.6205, -73.9239]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6205, -73.9239]): 0.0
-('University Hospital of Brooklyn', [40.6205, -73.9239]): 0.0
-('Kings County Hospital Center', [40.6205, -73.9239]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6205, -73.9239]): 167157.0
-('Kingsbrook Jewish Medical Center', [40.6205, -73.9239]): 0.0
-('Flushing Hospital Medical Center', [40.7606, -73.7968]): 42301.0
-('New York Hospital Medical Center   of Queens', [40.7606, -73.7968]): 0.0
-('Queens Hospital Center', [40.7606, -73.7968]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7627, -73.9149]): 0.0
-('Hospital for Special Surgery', [40.7627, -73.9149]): 68727.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7627, -73.9149]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.6794, -74.0014]): 0.0
-('New York Methodist Hospital', [40.6794, -74.0014]): 0.0
-('Long Island College Hospital', [40.6794, -74.0014]): 93630.0
-('Flushing Hospital Medical Center', [40.7347, -73.723]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7347, -73.723]): 27184.0
-('Queens Hospital Center', [40.7347, -73.723]): 0.0
-('Jamaica Hospital Medical Center', [40.7347, -73.723]): 0.0
-('Brookdale Hospital Medical Center', [40.6407, -73.9028]): 0.0
-('University Hospital of Brooklyn', [40.6407, -73.9028]): 0.0
-('Kings County Hospital Center', [40.6407, -73.9028]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6407, -73.9028]): 226826.0
-('Kingsbrook Jewish Medical Center', [40.6407, -73.9028]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.694, -73.9903]): 0.0
-('New York Methodist Hospital', [40.694, -73.9903]): 0.0
-('Long Island College Hospital', [40.694, -73.9903]): 296148.0
-('Richmond University Medical Center', [40.6324, -74.1171]): 64198.0
-('Maimonides Medical Center', [40.6324, -74.1171]): 0.0
-('Staten Island University Hosp-North', [40.6324, -74.1171]): 0.0
-('Maimonides Medical Center', [40.7038, -74.0098]): 0.0
-('Woodhull Medical & Mental Health Center', [40.7038, -74.0098]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7038, -74.0098]): 0.0
-('New York Methodist Hospital', [40.7038, -74.0098]): 0.0
-('Bellevue Hospital Center', [40.7038, -74.0098]): 0.0
-('Long Island College Hospital', [40.7038, -74.0098]): 1278.0
-('Wyckoff Heights Medical Center', [40.7038, -74.0098]): 0.0
-('NYU Hospitals Center', [40.7038, -74.0098]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.8486, -73.8999]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8486, -73.8999]): 0.0
-('Calvary Hospital Inc', [40.8486, -73.8999]): 423069.0
-('Lincoln Medical & Mental Health Center', [40.8486, -73.8999]): 0.0
-('Jacobi Medical Center', [40.8486, -73.8999]): 0.0
-('North Central Bronx Hospital', [40.8486, -73.8999]): 0.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.8486, -73.8999]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8486, -73.8999]): 0.0
-('Flushing Hospital Medical Center', [40.7029, -73.8111]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7029, -73.8111]): 0.0
-('Queens Hospital Center', [40.7029, -73.8111]): 0.0
-('Jamaica Hospital Medical Center', [40.7029, -73.8111]): 171117.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8295, -73.8716]): 0.0
-('Calvary Hospital Inc', [40.8295, -73.8716]): 249217.0
-('Lincoln Medical & Mental Health Center', [40.8295, -73.8716]): 0.0
-('Jacobi Medical Center', [40.8295, -73.8716]): 0.0
-('Mount Sinai Hospital', [40.7816, -73.9511]): 0.0
-('Hospital for Special Surgery', [40.7816, -73.9511]): 0.0
-('Metropolitan Hospital Center', [40.7816, -73.9511]): 102102.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7816, -73.9511]): 0.0
-('Lenox Hill Hospital', [40.7816, -73.9511]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6076, -73.8198]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.6076, -73.8198]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6076, -73.8198]): 49467.0
-('Jamaica Hospital Medical Center', [40.6076, -73.8198]): 0.0
-('Mount Sinai Hospital', [40.8135, -73.9381]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8135, -73.9381]): 0.0
-('Harlem Hospital Center', [40.8135, -73.9381]): 93422.0
-('Metropolitan Hospital Center', [40.8135, -73.9381]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.8135, -73.9381]): 0.0
-('Maimonides Medical Center', [40.6179, -73.9856]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6179, -73.9856]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6179, -73.9856]): 114880.0
-('University Hospital of Brooklyn', [40.6628, -73.9546]): 0.0
-('Kings County Hospital Center', [40.6628, -73.9546]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6628, -73.9546]): 163179.0
-('New York Hospital Medical Center   of Queens', [40.6982, -73.8345]): 0.0
-('Queens Hospital Center', [40.6982, -73.8345]): 0.0
-('Jamaica Hospital Medical Center', [40.6982, -73.8345]): 85299.0
-('University Hospital of Brooklyn', [40.6505, -73.9349]): 0.0
-('Kings County Hospital Center', [40.6505, -73.9349]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6505, -73.9349]): 234003.0
-('Woodhull Medical & Mental Health Center', [40.7272, -73.9498]): 90924.0
-('Bellevue Hospital Center', [40.7272, -73.9498]): 0.0
-('NYU Hospitals Center', [40.7272, -73.9498]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7517, -73.9707]): 0.0
-('Bellevue Hospital Center', [40.7517, -73.9707]): 0.0
-('Hospital for Special Surgery', [40.7517, -73.9707]): 122100.0
-('NYU Hospitals Center', [40.7517, -73.9707]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7517, -73.9707]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7139, -74.007]): 0.0
-('Bellevue Hospital Center', [40.7139, -74.007]): 0.0
-('Long Island College Hospital', [40.7139, -74.007]): 54697.0
-('NYU Hospitals Center', [40.7139, -74.007]): 0.0
-('Queens Hospital Center', [40.6006, -73.758]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.6006, -73.758]): 191933.0
-('Jamaica Hospital Medical Center', [40.6006, -73.758]): 0.0
-('Richmond University Medical Center', [40.5973, -74.0768]): 0.0
-('Maimonides Medical Center', [40.5973, -74.0768]): 0.0
-('Staten Island University Hosp-North', [40.5973, -74.0768]): 98966.0
-('Coney Island Hospital', [40.5973, -74.0768]): 0.0
-('Richmond University Medical Center', [40.5352, -74.2116]): 0.0
-('Staten Island University Hosp-North', [40.5352, -74.2116]): 0.0
-('Staten Island University Hosp-South', [40.5352, -74.2116]): 48490.0
-('Mount Sinai Hospital', [40.7763, -73.911]): 0.0
-('Lincoln Medical & Mental Health Center', [40.7763, -73.911]): 0.0
-('Elmhurst Hospital Center', [40.7763, -73.911]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7763, -73.911]): 0.0
-('Hospital for Special Surgery', [40.7763, -73.911]): 0.0
-('Metropolitan Hospital Center', [40.7763, -73.911]): 55789.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7763, -73.911]): 0.0
-('Lenox Hill Hospital', [40.7763, -73.911]): 0.0
-('Flushing Hospital Medical Center', [40.7591, -73.7326]): 24915.0
-('New York Hospital Medical Center   of Queens', [40.7591, -73.7326]): 0.0
-('Queens Hospital Center', [40.7591, -73.7326]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7651, -73.9638]): 0.0
-('Hospital for Special Surgery', [40.7651, -73.9638]): 81161.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7651, -73.9638]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8465, -73.841]): 0.0
-('Calvary Hospital Inc', [40.8465, -73.841]): 178606.0
-('Jacobi Medical Center', [40.8465, -73.841]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7608, -73.9295]): 0.0
-('Hospital for Special Surgery', [40.7608, -73.9295]): 92017.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7608, -73.9295]): 0.0
-('Elmhurst Hospital Center', [40.7611, -73.8916]): 98709.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7611, -73.8916]): 0.0
-('Hospital for Special Surgery', [40.7611, -73.8916]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7611, -73.8916]): 0.0
-('Flushing Hospital Medical Center', [40.7536, -73.8226]): 118931.0
-('New York Hospital Medical Center   of Queens', [40.7536, -73.8226]): 0.0
-('Queens Hospital Center', [40.7536, -73.8226]): 0.0
-('Brookdale Hospital Medical Center', [40.7239, -73.8997]): 0.0
-('Woodhull Medical & Mental Health Center', [40.7239, -73.8997]): 0.0
-('Interfaith Medical Center', [40.7239, -73.8997]): 0.0
-('Elmhurst Hospital Center', [40.7239, -73.8997]): 0.0
-('Bellevue Hospital Center', [40.7239, -73.8997]): 0.0
-('Wyckoff Heights Medical Center', [40.7239, -73.8997]): 57525.0
-('NYU Hospitals Center', [40.7239, -73.8997]): 0.0
-('Flushing Hospital Medical Center', [40.6958, -73.7617]): 0.0
-('New York Hospital Medical Center   of Queens', [40.6958, -73.7617]): 0.0
-('Queens Hospital Center', [40.6958, -73.7617]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.6958, -73.7617]): 0.0
-('Jamaica Hospital Medical Center', [40.6958, -73.7617]): 87091.0
-('Woodhull Medical & Mental Health Center', [40.7173, -73.8792]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7173, -73.8792]): 0.0
-('Elmhurst Hospital Center', [40.7173, -73.8792]): 0.0
-('Queens Hospital Center', [40.7173, -73.8792]): 0.0
-('Wyckoff Heights Medical Center', [40.7173, -73.8792]): 48731.0
-('Jamaica Hospital Medical Center', [40.7173, -73.8792]): 0.0
-('Richmond University Medical Center', [40.6316, -74.0927]): 154873.0
-('Maimonides Medical Center', [40.6316, -74.0927]): 0.0
-('Staten Island University Hosp-North', [40.6316, -74.0927]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8729, -73.8278]): 0.0
-('Calvary Hospital Inc', [40.8729, -73.8278]): 122440.0
-('Jacobi Medical Center', [40.8729, -73.8278]): 0.0
-('Flushing Hospital Medical Center', [40.7277, -73.7489]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7277, -73.7489]): 69732.0
-('Queens Hospital Center', [40.7277, -73.7489]): 0.0
-('Jamaica Hospital Medical Center', [40.7277, -73.7489]): 0.0
-('Flushing Hospital Medical Center', [40.7627, -73.7745]): 40480.0
-('New York Hospital Medical Center   of Queens', [40.7627, -73.7745]): 0.0
-('Queens Hospital Center', [40.7627, -73.7745]): 0.0
-('Richmond University Medical Center', [40.6301, -74.1607]): 70204.0
-('Maimonides Medical Center', [40.6301, -74.1607]): 0.0
-('Staten Island University Hosp-North', [40.6301, -74.1607]): 0.0
-('Staten Island University Hosp-South', [40.6301, -74.1607]): 0.0
-('Maimonides Medical Center', [40.6412, -74.0133]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6412, -74.0133]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.6412, -74.0133]): 0.0
-('New York Methodist Hospital', [40.6412, -74.0133]): 0.0
-('University Hospital of Brooklyn', [40.6412, -74.0133]): 0.0
-('Long Island College Hospital', [40.6412, -74.0133]): 0.0
-('Kings County Hospital Center', [40.6412, -74.0133]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6412, -74.0133]): 194464.0
-('Maimonides Medical Center', [40.6424, -73.9758]): 0.0
-('New York Methodist Hospital', [40.6424, -73.9758]): 0.0
-('University Hospital of Brooklyn', [40.6424, -73.9758]): 129035.0
-('Kings County Hospital Center', [40.6424, -73.9758]): 0.0
-('Woodhull Medical & Mental Health Center', [40.6924, -73.9666]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.6924, -73.9666]): 134953.0
-('Long Island College Hospital', [40.6924, -73.9666]): 0.0
-('Flushing Hospital Medical Center', [40.7667, -73.8241]): 133298.0
-('New York Hospital Medical Center   of Queens', [40.7667, -73.8241]): 0.0
-('Elmhurst Hospital Center', [40.7667, -73.8241]): 0.0
-('Queens Hospital Center', [40.7667, -73.8241]): 0.0
-('Jamaica Hospital Medical Center', [40.7667, -73.8241]): 0.0
-('New York Community Hospital of     Brooklyn', [40.6011, -73.9475]): 140544.0
-('Coney Island Hospital', [40.6011, -73.9475]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6011, -73.9475]): 0.0
-('Flushing Hospital Medical Center', [40.7851, -73.8096]): 48470.0
-('New York Hospital Medical Center   of Queens', [40.7851, -73.8096]): 0.0
-('Queens Hospital Center', [40.7851, -73.8096]): 0.0
-('Brookdale Hospital Medical Center', [40.6588, -73.8438]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6588, -73.8438]): 49215.0
-('Jamaica Hospital Medical Center', [40.6588, -73.8438]): 0.0
-('Flushing Hospital Medical Center', [40.7613, -73.8739]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7613, -73.8739]): 66524.0
-('Elmhurst Hospital Center', [40.7613, -73.8739]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.9, -73.8622]): 0.0
-('Jacobi Medical Center', [40.9, -73.8622]): 0.0
-('North Central Bronx Hospital', [40.9, -73.8622]): 49224.0
-('Flushing Hospital Medical Center', [40.728, -73.8195]): 0.0
-('New York Hospital Medical Center   of Queens', [40.728, -73.8195]): 61906.0
-('Queens Hospital Center', [40.728, -73.8195]): 0.0
-('Jamaica Hospital Medical Center', [40.728, -73.8195]): 0.0
-('Brookdale Hospital Medical Center', [40.6763, -73.7966]): 0.0
-('Flushing Hospital Medical Center', [40.6763, -73.7966]): 0.0
-('New York Hospital Medical Center   of Queens', [40.6763, -73.7966]): 0.0
-('Queens Hospital Center', [40.6763, -73.7966]): 0.0
-('Jamaica Hospital Medical Center', [40.6763, -73.7966]): 48691.0
-('Flushing Hospital Medical Center', [40.709, -73.7401]): 0.0
-('New York Hospital Medical Center   of Queens', [40.709, -73.7401]): 57890.0
-('Queens Hospital Center', [40.709, -73.7401]): 0.0
-('Jamaica Hospital Medical Center', [40.709, -73.7401]): 0.0
-('Mount Sinai Hospital', [40.7864, -73.9764]): 0.0
-('Metropolitan Hospital Center', [40.7864, -73.9764]): 116268.0
-('Lenox Hill Hospital', [40.7864, -73.9764]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7685, -73.9588]): 0.0
-('Hospital for Special Surgery', [40.7685, -73.9588]): 78610.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7685, -73.9588]): 0.0
-('Flushing Hospital Medical Center', [40.7208, -73.7433]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7208, -73.7433]): 39203.0
-('Queens Hospital Center', [40.7208, -73.7433]): 0.0
-('Jamaica Hospital Medical Center', [40.7208, -73.7433]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7496, -73.9919]): 0.0
-('Bellevue Hospital Center', [40.7496, -73.9919]): 0.0
-('Hospital for Special Surgery', [40.7496, -73.9919]): 11545.0
-('NYU Hospitals Center', [40.7496, -73.9919]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7496, -73.9919]): 0.0
-('Lenox Hill Hospital', [40.7496, -73.9919]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8702, -73.8495]): 0.0
-('Calvary Hospital Inc', [40.8702, -73.8495]): 181835.0
-('Jacobi Medical Center', [40.8702, -73.8495]): 0.0
-('Hospital for Special Surgery', [40.7706, -73.9265]): 72791.0
-('Metropolitan Hospital Center', [40.7706, -73.9265]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7706, -73.9265]): 0.0
-('Queens Hospital Center', [40.6947, -73.7374]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.6947, -73.7374]): 38052.0
-('Jamaica Hospital Medical Center', [40.6947, -73.7374]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.9011, -73.9053]): 0.0
-('North Central Bronx Hospital', [40.9011, -73.9053]): 48426.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.9011, -73.9053]): 0.0
-('Brookdale Hospital Medical Center', [40.6913, -73.8585]): 0.0
-('Woodhull Medical & Mental Health Center', [40.6913, -73.8585]): 0.0
-('Interfaith Medical Center', [40.6913, -73.8585]): 0.0
-('Elmhurst Hospital Center', [40.6913, -73.8585]): 0.0
-('Queens Hospital Center', [40.6913, -73.8585]): 0.0
-('Wyckoff Heights Medical Center', [40.6913, -73.8585]): 69780.0
-('Jamaica Hospital Medical Center', [40.6913, -73.8585]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7278, -73.8602]): 74359.0
-('Elmhurst Hospital Center', [40.7278, -73.8602]): 0.0
-('Queens Hospital Center', [40.7278, -73.8602]): 0.0
-('Queens Hospital Center', [40.6645, -73.7559]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.6645, -73.7559]): 88072.0
-('Jamaica Hospital Medical Center', [40.6645, -73.7559]): 0.0
-('Elmhurst Hospital Center', [40.7436, -73.9216]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7436, -73.9216]): 0.0
-('Bellevue Hospital Center', [40.7436, -73.9216]): 0.0
-('Wyckoff Heights Medical Center', [40.7436, -73.9216]): 46154.0
-('Hospital for Special Surgery', [40.7436, -73.9216]): 0.0
-('NYU Hospitals Center', [40.7436, -73.9216]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7436, -73.9216]): 0.0
-('Flushing Hospital Medical Center', [40.7481, -73.7114]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7481, -73.7114]): 23713.0
-('Queens Hospital Center', [40.7481, -73.7114]): 0.0
-('Flushing Hospital Medical Center', [40.7807, -73.7812]): 28514.0
-('New York Hospital Medical Center   of Queens', [40.7807, -73.7812]): 0.0
-('Queens Hospital Center', [40.7807, -73.7812]): 0.0
-('Jamaica Hospital Medical Center', [40.7807, -73.7812]): 0.0
-('Richmond University Medical Center', [40.5518, -74.1526]): 0.0
-('Staten Island University Hosp-North', [40.5518, -74.1526]): 0.0
-('Staten Island University Hosp-South', [40.5518, -74.1526]): 40380.0
-('Brookdale Hospital Medical Center', [40.6497, -73.8824]): 0.0
-('University Hospital of Brooklyn', [40.6497, -73.8824]): 0.0
-('Kings County Hospital Center', [40.6497, -73.8824]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6497, -73.8824]): 54688.0
-('Richmond University Medical Center', [40.5085, -74.2445]): 0.0
-('Brookdale Hospital Medical Center', [40.5085, -74.2445]): 0.0
-('Mount Sinai Hospital', [40.5085, -74.2445]): 0.0
-('Maimonides Medical Center', [40.5085, -74.2445]): 0.0
-('New York Community Hospital of     Brooklyn', [40.5085, -74.2445]): 0.0
-('Woodhull Medical & Mental Health Center', [40.5085, -74.2445]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.5085, -74.2445]): 0.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.5085, -74.2445]): 0.0
-('New York Methodist Hospital', [40.5085, -74.2445]): 0.0
-('University Hospital of Brooklyn', [40.5085, -74.2445]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.5085, -74.2445]): 0.0
-('Flushing Hospital Medical Center', [40.5085, -74.2445]): 0.0
-('Calvary Hospital Inc', [40.5085, -74.2445]): 0.0
-('Lincoln Medical & Mental Health Center', [40.5085, -74.2445]): 0.0
-('Staten Island University Hosp-North', [40.5085, -74.2445]): 0.0
-('Interfaith Medical Center', [40.5085, -74.2445]): 0.0
-('Coney Island Hospital', [40.5085, -74.2445]): 0.0
-('New York Hospital Medical Center   of Queens', [40.5085, -74.2445]): 0.0
-('Elmhurst Hospital Center', [40.5085, -74.2445]): 0.0
-('Staten Island University Hosp-South', [40.5085, -74.2445]): 18310.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.5085, -74.2445]): 0.0
-('Queens Hospital Center', [40.5085, -74.2445]): 0.0
-('Bellevue Hospital Center', [40.5085, -74.2445]): 0.0
-('Jacobi Medical Center', [40.5085, -74.2445]): 0.0
-('Harlem Hospital Center', [40.5085, -74.2445]): 0.0
-('Long Island College Hospital', [40.5085, -74.2445]): 0.0
-('Kings County Hospital Center', [40.5085, -74.2445]): 0.0
-('Wyckoff Heights Medical Center', [40.5085, -74.2445]): 0.0
-('North Central Bronx Hospital', [40.5085, -74.2445]): 0.0
-('Hospital for Special Surgery', [40.5085, -74.2445]): 0.0
-('New York Presbyterian Hospital - Allen Pavilion', [40.5085, -74.2445]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.5085, -74.2445]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.5085, -74.2445]): 0.0
-('Metropolitan Hospital Center', [40.5085, -74.2445]): 0.0
-('NYU Hospitals Center', [40.5085, -74.2445]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.5085, -74.2445]): 0.0
-('Lenox Hill Hospital', [40.5085, -74.2445]): 0.0
-('Kingsbrook Jewish Medical Center', [40.5085, -74.2445]): 0.0
-('New York Presbyterian Hospital - Columbia Presbyterian Center', [40.5085, -74.2445]): 0.0
-('Jamaica Hospital Medical Center', [40.5085, -74.2445]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7618, -73.9505]): 0.0
-('Hospital for Special Surgery', [40.7618, -73.9505]): 9482.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7618, -73.9505]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.8469, -73.7874]): 0.0
-('Calvary Hospital Inc', [40.8469, -73.7874]): 13440.0
-('Jacobi Medical Center', [40.8469, -73.7874]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7069, -73.8297]): 0.0
-('Queens Hospital Center', [40.7069, -73.8297]): 0.0
-('Jamaica Hospital Medical Center', [40.7069, -73.8297]): 38034.0
-('Flushing Hospital Medical Center', [40.7428, -73.7588]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7428, -73.7588]): 41510.0
-('Queens Hospital Center', [40.7428, -73.7588]): 0.0
-('Woodhull Medical & Mental Health Center', [40.7105, -74.0163]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7105, -74.0163]): 0.0
-('New York Methodist Hospital', [40.7105, -74.0163]): 0.0
-('Bellevue Hospital Center', [40.7105, -74.0163]): 0.0
-('Long Island College Hospital', [40.7105, -74.0163]): 6989.0
-('NYU Hospitals Center', [40.7105, -74.0163]): 0.0
-('Flushing Hospital Medical Center', [40.7571, -73.7182]): 11743.0
-('New York Hospital Medical Center   of Queens', [40.7571, -73.7182]): 0.0
-('Queens Hospital Center', [40.7571, -73.7182]): 0.0
-('Flushing Hospital Medical Center', [40.7236, -73.7058]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7236, -73.7058]): 5187.0
-('Queens Hospital Center', [40.7236, -73.7058]): 0.0
-('Jamaica Hospital Medical Center', [40.7236, -73.7058]): 0.0
-('Brookdale Hospital Medical Center', [40.5594, -73.9067]): 0.0
-('New York Community Hospital of     Brooklyn', [40.5594, -73.9067]): 0.0
-('Coney Island Hospital', [40.5594, -73.9067]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.5594, -73.9067]): 4347.0
-('Flushing Hospital Medical Center', [40.7272, -73.7949]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7272, -73.7949]): 0.0
-('Queens Hospital Center', [40.7272, -73.7949]): 29442.0
-('Jamaica Hospital Medical Center', [40.7272, -73.7949]): 0.0
-('Bellevue Hospital Center', [40.7354, -73.9968]): 0.0
-('Long Island College Hospital', [40.7354, -73.9968]): 8579.0
-('NYU Hospitals Center', [40.7354, -73.9968]): 0.0
-('University Hospital of Brooklyn', [40.6451, -73.945]): 248.0
-('Kings County Hospital Center', [40.6451, -73.945]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6451, -73.945]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6451, -73.945]): 0.0
-('Flushing Hospital Medical Center', [40.7294, -73.6828]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7294, -73.6828]): 8689.0
-('Queens Hospital Center', [40.7294, -73.6828]): 0.0
-('Jamaica Hospital Medical Center', [40.7294, -73.6828]): 0.0
-('Flushing Hospital Medical Center', [40.7722, -73.7454]): 9198.0
-('New York Hospital Medical Center   of Queens', [40.7722, -73.7454]): 0.0
-('Queens Hospital Center', [40.7722, -73.7454]): 0.0
-('Queens Hospital Center', [40.6472, -73.7827]): 0.0
-('St Johns Episcopal Hospital So Shore', [40.6472, -73.7827]): 29798.0
-('Jamaica Hospital Medical Center', [40.6472, -73.7827]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7524, -73.9791]): 0.0
-('Bellevue Hospital Center', [40.7524, -73.9791]): 0.0
-('Hospital for Special Surgery', [40.7524, -73.9791]): 2622.0
-('NYU Hospitals Center', [40.7524, -73.9791]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7524, -73.9791]): 0.0
-('Lenox Hill Hospital', [40.7524, -73.9791]): 0.0
-('Maimonides Medical Center', [40.7056, -74.0083]): 0.0
-('Woodhull Medical & Mental Health Center', [40.7056, -74.0083]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7056, -74.0083]): 0.0
-('New York Methodist Hospital', [40.7056, -74.0083]): 0.0
-('Bellevue Hospital Center', [40.7056, -74.0083]): 0.0
-('Long Island College Hospital', [40.7056, -74.0083]): 19791.0
-('Wyckoff Heights Medical Center', [40.7056, -74.0083]): 0.0
-('NYU Hospitals Center', [40.7056, -74.0083]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7652, -73.9804]): 0.0
-('Bellevue Hospital Center', [40.7652, -73.9804]): 0.0
-('Hospital for Special Surgery', [40.7652, -73.9804]): 1316.0
-('NYU Hospitals Center', [40.7652, -73.9804]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7652, -73.9804]): 0.0
-('Lenox Hill Hospital', [40.7652, -73.9804]): 0.0
-('Woodhull Medical & Mental Health Center', [40.7089, -74.0111]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7089, -74.0111]): 0.0
-('New York Methodist Hospital', [40.7089, -74.0111]): 0.0
-('Bellevue Hospital Center', [40.7089, -74.0111]): 0.0
-('Long Island College Hospital', [40.7089, -74.0111]): 580.0
-('Wyckoff Heights Medical Center', [40.7089, -74.0111]): 0.0
-('NYU Hospitals Center', [40.7089, -74.0111]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7152, -74.0038]): 0.0
-('Bellevue Hospital Center', [40.7152, -74.0038]): 0.0
-('Long Island College Hospital', [40.7152, -74.0038]): 2239.0
-('NYU Hospitals Center', [40.7152, -74.0038]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7514, -73.9785]): 0.0
-('Bellevue Hospital Center', [40.7514, -73.9785]): 0.0
-('Hospital for Special Surgery', [40.7514, -73.9785]): 297.0
-('NYU Hospitals Center', [40.7514, -73.9785]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7514, -73.9785]): 0.0
-('Lenox Hill Hospital', [40.7514, -73.9785]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7519, -73.9768]): 0.0
-('Bellevue Hospital Center', [40.7519, -73.9768]): 0.0
-('Hospital for Special Surgery', [40.7519, -73.9768]): 2352.0
-('NYU Hospitals Center', [40.7519, -73.9768]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7519, -73.9768]): 0.0
-('Lenox Hill Hospital', [40.7519, -73.9768]): 0.0
-('Flushing Hospital Medical Center', [40.7928, -73.7767]): 0.0
-('Calvary Hospital Inc', [40.7928, -73.7767]): 6559.0
-('New York Hospital Medical Center   of Queens', [40.7928, -73.7767]): 0.0
-('Queens Hospital Center', [40.7928, -73.7767]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7494, -73.9758]): 0.0
-('Bellevue Hospital Center', [40.7494, -73.9758]): 0.0
-('Hospital for Special Surgery', [40.7494, -73.9758]): 0.0
-('NYU Hospitals Center', [40.7494, -73.9758]): 192.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7494, -73.9758]): 0.0
-('Lenox Hill Hospital', [40.7494, -73.9758]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7515, -73.9905]): 0.0
-('Bellevue Hospital Center', [40.7515, -73.9905]): 0.0
-('Hospital for Special Surgery', [40.7515, -73.9905]): 477.0
-('NYU Hospitals Center', [40.7515, -73.9905]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7515, -73.9905]): 0.0
-('Lenox Hill Hospital', [40.7515, -73.9905]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7547, -73.9766]): 0.0
-('Bellevue Hospital Center', [40.7547, -73.9766]): 0.0
-('Hospital for Special Surgery', [40.7547, -73.9766]): 591.0
-('NYU Hospitals Center', [40.7547, -73.9766]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7547, -73.9766]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7583, -73.9735]): 0.0
-('Bellevue Hospital Center', [40.7583, -73.9735]): 0.0
-('Hospital for Special Surgery', [40.7583, -73.9735]): 416.0
-('NYU Hospitals Center', [40.7583, -73.9735]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7583, -73.9735]): 0.0
-('Lenox Hill Hospital', [40.7583, -73.9735]): 0.0
-('Mount Sinai Hospital', [40.778, -73.9884]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.778, -73.9884]): 0.0
-('Hospital for Special Surgery', [40.778, -73.9884]): 3873.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.778, -73.9884]): 0.0
-('Lenox Hill Hospital', [40.778, -73.9884]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7628, -73.9785]): 0.0
-('Bellevue Hospital Center', [40.7628, -73.9785]): 0.0
-('Hospital for Special Surgery', [40.7628, -73.9785]): 483.0
-('NYU Hospitals Center', [40.7628, -73.9785]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7628, -73.9785]): 0.0
-('Lenox Hill Hospital', [40.7628, -73.9785]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7564, -73.9748]): 0.0
-('Bellevue Hospital Center', [40.7564, -73.9748]): 0.0
-('Hospital for Special Surgery', [40.7564, -73.9748]): 188.0
-('NYU Hospitals Center', [40.7564, -73.9748]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7564, -73.9748]): 0.0
-('Lenox Hill Hospital', [40.7564, -73.9748]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7664, -73.9827]): 0.0
-('Hospital for Special Surgery', [40.7664, -73.9827]): 537.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7664, -73.9827]): 0.0
-('Lenox Hill Hospital', [40.7664, -73.9827]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7553, -73.9761]): 0.0
-('Bellevue Hospital Center', [40.7553, -73.9761]): 0.0
-('Hospital for Special Surgery', [40.7553, -73.9761]): 110.0
-('NYU Hospitals Center', [40.7553, -73.9761]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7553, -73.9761]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7127, -74.0078]): 0.0
-('Bellevue Hospital Center', [40.7127, -74.0078]): 0.0
-('Long Island College Hospital', [40.7127, -74.0078]): 255.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7641, -73.9735]): 0.0
-('Hospital for Special Surgery', [40.7641, -73.9735]): 1313.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7641, -73.9735]): 0.0
-('Lenox Hill Hospital', [40.7641, -73.9735]): 0.0
-('University Hospital of Brooklyn', [40.6451, -73.945]): 337.0
-('Kings County Hospital Center', [40.6451, -73.945]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6451, -73.945]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6451, -73.945]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7146, -74.015]): 0.0
-('Bellevue Hospital Center', [40.7146, -74.015]): 0.0
-('Long Island College Hospital', [40.7146, -74.015]): 2494.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.749, -73.9865]): 0.0
-('Bellevue Hospital Center', [40.749, -73.9865]): 0.0
-('NYU Hospitals Center', [40.749, -73.9865]): 1493.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.749, -73.9865]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7593, -73.9798]): 0.0
-('Bellevue Hospital Center', [40.7593, -73.9798]): 0.0
-('Hospital for Special Surgery', [40.7593, -73.9798]): 2208.0
-('NYU Hospitals Center', [40.7593, -73.9798]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7593, -73.9798]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7611, -73.968]): 0.0
-('Hospital for Special Surgery', [40.7611, -73.968]): 149.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7611, -73.968]): 0.0
-('Lenox Hill Hospital', [40.7611, -73.968]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7699, -73.9511]): 0.0
-('Hospital for Special Surgery', [40.7699, -73.9511]): 1657.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7699, -73.9511]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7454, -73.9575]): 0.0
-('Bellevue Hospital Center', [40.7454, -73.9575]): 0.0
-('Hospital for Special Surgery', [40.7454, -73.9575]): 2665.0
-('NYU Hospitals Center', [40.7454, -73.9575]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7454, -73.9575]): 0.0
-('Brookdale Hospital Medical Center', [40.6514, -73.8708]): 0.0
-('University Hospital of Brooklyn', [40.6514, -73.8708]): 0.0
-('Kings County Hospital Center', [40.6514, -73.8708]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6514, -73.8708]): 365.0
-('University Hospital of Brooklyn', [40.6451, -73.945]): 401.0
-('Kings County Hospital Center', [40.6451, -73.945]): 0.0
-('Beth Israel Med Center-Kings Hwy Div', [40.6451, -73.945]): 0.0
-('Kingsbrook Jewish Medical Center', [40.6451, -73.945]): 0.0
-('Mount Sinai Hospital', [40.7808, -73.9772]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7808, -73.9772]): 0.0
-('Hospital for Special Surgery', [40.7808, -73.9772]): 0.0
-('Metropolitan Hospital Center', [40.7808, -73.9772]): 202.0
-('NYU Hospitals Center', [40.7808, -73.9772]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7808, -73.9772]): 0.0
-('Lenox Hill Hospital', [40.7808, -73.9772]): 0.0
-('Mount Sinai Hospital', [40.8111, -73.9642]): 0.0
-('Lincoln Medical & Mental Health Center', [40.8111, -73.9642]): 0.0
-('Harlem Hospital Center', [40.8111, -73.9642]): 147.0
-('Lenox Hill Hospital', [40.8111, -73.9642]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7506, -73.9894]): 0.0
-('Bellevue Hospital Center', [40.7506, -73.9894]): 0.0
-('Hospital for Special Surgery', [40.7506, -73.9894]): 585.0
-('NYU Hospitals Center', [40.7506, -73.9894]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7506, -73.9894]): 0.0
-('Lenox Hill Hospital', [40.7506, -73.9894]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7526, -73.9755]): 0.0
-('Bellevue Hospital Center', [40.7526, -73.9755]): 0.0
-('NYU Hospitals Center', [40.7526, -73.9755]): 444.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7526, -73.9755]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7517, -73.9752]): 0.0
-('Bellevue Hospital Center', [40.7517, -73.9752]): 0.0
-('NYU Hospitals Center', [40.7517, -73.9752]): 277.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7517, -73.9752]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7543, -73.9796]): 0.0
-('Bellevue Hospital Center', [40.7543, -73.9796]): 0.0
-('Hospital for Special Surgery', [40.7543, -73.9796]): 131.0
-('NYU Hospitals Center', [40.7543, -73.9796]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7543, -73.9796]): 0.0
-('Lenox Hill Hospital', [40.7543, -73.9796]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7518, -73.9922]): 0.0
-('Bellevue Hospital Center', [40.7518, -73.9922]): 0.0
-('Hospital for Special Surgery', [40.7518, -73.9922]): 232.0
-('NYU Hospitals Center', [40.7518, -73.9922]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7518, -73.9922]): 0.0
-('Lenox Hill Hospital', [40.7518, -73.9922]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7634, -73.974]): 0.0
-('Hospital for Special Surgery', [40.7634, -73.974]): 147.0
-('NYU Hospitals Center', [40.7634, -73.974]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7634, -73.974]): 0.0
-('Mount Sinai Hospital', [40.7808, -73.9772]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7808, -73.9772]): 0.0
-('Hospital for Special Surgery', [40.7808, -73.9772]): 0.0
-('Metropolitan Hospital Center', [40.7808, -73.9772]): 252.0
-('NYU Hospitals Center', [40.7808, -73.9772]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7808, -73.9772]): 0.0
-('Lenox Hill Hospital', [40.7808, -73.9772]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7556, -73.9789]): 0.0
-('Bellevue Hospital Center', [40.7556, -73.9789]): 0.0
-('NYU Hospitals Center', [40.7556, -73.9789]): 157.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7556, -73.9789]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7589, -73.973]): 0.0
-('NYU Hospitals Center', [40.7589, -73.973]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7589, -73.973]): 130.0
-('Montefiore Medical Center - Henry & Lucy Moses Div', [40.9045, -73.8073]): 0.0
-('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div', [40.9045, -73.8073]): 0.0
-('Calvary Hospital Inc', [40.9045, -73.8073]): 155.0
-('Jacobi Medical Center', [40.9045, -73.8073]): 0.0
-('North Central Bronx Hospital', [40.9045, -73.8073]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7603, -73.9762]): 0.0
-('Bellevue Hospital Center', [40.7603, -73.9762]): 0.0
-('Hospital for Special Surgery', [40.7603, -73.9762]): 1067.0
-('NYU Hospitals Center', [40.7603, -73.9762]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7603, -73.9762]): 0.0
-('Lenox Hill Hospital', [40.7603, -73.9762]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7558, -73.9753]): 0.0
-('Bellevue Hospital Center', [40.7558, -73.9753]): 0.0
-('Hospital for Special Surgery', [40.7558, -73.9753]): 682.0
-('NYU Hospitals Center', [40.7558, -73.9753]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7558, -73.9753]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7549, -73.975]): 0.0
-('Bellevue Hospital Center', [40.7549, -73.975]): 0.0
-('Hospital for Special Surgery', [40.7549, -73.975]): 256.0
-('NYU Hospitals Center', [40.7549, -73.975]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7549, -73.975]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.754, -73.9808]): 0.0
-('Bellevue Hospital Center', [40.754, -73.9808]): 0.0
-('Hospital for Special Surgery', [40.754, -73.9808]): 203.0
-('NYU Hospitals Center', [40.754, -73.9808]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.754, -73.9808]): 0.0
-('Lenox Hill Hospital', [40.754, -73.9808]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7592, -73.9778]): 0.0
-('Bellevue Hospital Center', [40.7592, -73.9778]): 0.0
-('Hospital for Special Surgery', [40.7592, -73.9778]): 1330.0
-('NYU Hospitals Center', [40.7592, -73.9778]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7592, -73.9778]): 0.0
-('Lenox Hill Hospital', [40.7592, -73.9778]): 0.0
-('Mount Sinai Hospital', [40.7808, -73.9772]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7808, -73.9772]): 0.0
-('Hospital for Special Surgery', [40.7808, -73.9772]): 0.0
-('Metropolitan Hospital Center', [40.7808, -73.9772]): 56.0
-('NYU Hospitals Center', [40.7808, -73.9772]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7808, -73.9772]): 0.0
-('Lenox Hill Hospital', [40.7808, -73.9772]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7086, -74.0087]): 0.0
-('Bellevue Hospital Center', [40.7086, -74.0087]): 0.0
-('Long Island College Hospital', [40.7086, -74.0087]): 32.0
-('Flushing Hospital Medical Center', [40.7721, -73.8735]): 0.0
-('New York Hospital Medical Center   of Queens', [40.7721, -73.8735]): 49.0
-('Elmhurst Hospital Center', [40.7721, -73.8735]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7721, -73.8735]): 0.0
-('Hospital for Special Surgery', [40.7721, -73.8735]): 0.0
-('Metropolitan Hospital Center', [40.7721, -73.8735]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7721, -73.8735]): 0.0
-('Lenox Hill Hospital', [40.7721, -73.8735]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7546, -73.9762]): 0.0
-('Bellevue Hospital Center', [40.7546, -73.9762]): 0.0
-('Hospital for Special Surgery', [40.7546, -73.9762]): 10.0
-('NYU Hospitals Center', [40.7546, -73.9762]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7546, -73.9762]): 0.0
-('New York Presbyterian Hospital - New York Weill Cornell Center', [40.7543, -73.9798]): 0.0
-('Bellevue Hospital Center', [40.7543, -73.9798]): 0.0
-('Hospital for Special Surgery', [40.7543, -73.9798]): 1.0
-('NYU Hospitals Center', [40.7543, -73.9798]): 0.0
-('Memorial Hospital for Cancer and Allied Diseases', [40.7543, -73.9798]): 0.0
-('Lenox Hill Hospital', [40.7543, -73.9798]): 0.0
-('Brooklyn Hospital Center - Downtown Campus', [40.7143, -74.006]): 0.0
-('Bellevue Hospital Center', [40.7143, -74.006]): 0.0
-('Long Island College Hospital', [40.7143, -74.006]): 3.0
-('NYU Hospitals Center', [40.7143, -74.006]): 0.0
-Richmond University Medical Center: 638258.0
-Brookdale Hospital Medical Center: 888587.0
-Mount Sinai Hospital: -0.0
-Maimonides Medical Center: 99425.0
-New York Community Hospital of     Brooklyn: 306580.0
-Woodhull Medical & Mental Health Center: 535580.0
-Brooklyn Hospital Center - Downtown Campus: 496358.0
-Montefiore Medical Center - Henry & Lucy Moses Div: -0.0
-New York Methodist Hospital: 119899.0
-University Hospital of Brooklyn: 180116.0
-Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div: -0.0
-Flushing Hospital Medical Center: 457850.0
-Calvary Hospital Inc: 2128267.0
-Lincoln Medical & Mental Health Center: 1883327.0
-Staten Island University Hosp-North: 98966.0
-Interfaith Medical Center: 1761085.0
-Coney Island Hospital: -0.0
-New York Hospital Medical Center   of Queens: 851684.0
-Elmhurst Hospital Center: 565587.0
-Staten Island University Hosp-South: 308275.0
-New York Presbyterian Hospital - New York Weill Cornell Center: -0.0
-Queens Hospital Center: 306597.0
-Bellevue Hospital Center: 112349.0
-Jacobi Medical Center: -0.0
-Harlem Hospital Center: 806880.0
-Long Island College Hospital: 1799219.0
-Kings County Hospital Center: -0.0
-Wyckoff Heights Medical Center: 547676.0
-North Central Bronx Hospital: 1017013.0
-Hospital for Special Surgery: 1796049.0
-New York Presbyterian Hospital - Allen Pavilion: 1224364.0
-St Johns Episcopal Hospital So Shore: 665241.0
-Beth Israel Med Center-Kings Hwy Div: 2191581.0
-Metropolitan Hospital Center: 1377714.0
-NYU Hospitals Center: 369970.0
-Memorial Hospital for Cancer and Allied Diseases: 130.0
-Lenox Hill Hospital: -0.0
-Kingsbrook Jewish Medical Center: 501450.0
-New York Presbyterian Hospital - Columbia Presbyterian Center: 211657.0
-Jamaica Hospital Medical Center: 765108.0
+('Lincoln Medical & Mental Health Center (496.0 beds)', [40.8183, -73.9426]): 0.0
+('Harlem Hospital Center (418.0 beds)', [40.8183, -73.9426]): 357.1287671232877
+('Mount Sinai Hospital (1313.0 beds)', [40.7918, -73.9447]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.7918, -73.9447]): 962.5479452054794
+('Bellevue Hospital Center (980.0 beds)', [40.7443, -73.9781]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7443, -73.9781]): 599.641095890411
+('Interfaith Medical Center (267.0 beds)', [40.67, -73.9367]): 654.2164383561644
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.67, -73.9367]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7571, -73.9657]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7571, -73.9657]): 357.9780821917808
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7571, -73.9657]): 0.0
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6762, -73.8736]): 0.0
+('Interfaith Medical Center (267.0 beds)', [40.6762, -73.8736]): 987.1753424657534
+('Wyckoff Heights Medical Center (279.0 beds)', [40.6762, -73.8736]): 0.0
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.6762, -73.8736]): 0.0
+('Lincoln Medical & Mental Health Center (496.0 beds)', [40.8153, -73.9072]): 679.5616438356165
+('Harlem Hospital Center (418.0 beds)', [40.8153, -73.9072]): 0.0
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.8261, -73.8196]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.8261, -73.8196]): 289.3753424657534
+('Richmond University Medical Center (370.0 beds)', [40.6251, -74.0303]): 0.0
+('Maimonides Medical Center (936.0 beds)', [40.6251, -74.0303]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.6251, -74.0303]): 0.0
+('New York Methodist Hospital (630.0 beds)', [40.6251, -74.0303]): 0.0
+('Staten Island University Hosp-North (582.0 beds)', [40.6251, -74.0303]): 0.0
+('Coney Island Hospital (503.0 beds)', [40.6251, -74.0303]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.6251, -74.0303]): 0.0
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.6251, -74.0303]): 378.75616438356167
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7651, -73.9858]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7651, -73.9858]): 593.4904109589041
+('Woodhull Medical & Mental Health Center (299.0 beds)', [40.7006, -73.918]): 0.0
+('Wyckoff Heights Medical Center (279.0 beds)', [40.7006, -73.918]): 402.5342465753425
+('Lincoln Medical & Mental Health Center (496.0 beds)', [40.8496, -73.9356]): 0.0
+('Harlem Hospital Center (418.0 beds)', [40.8496, -73.9356]): 0.0
+('New York Presbyterian Hospital - Allen Pavilion (296.0 beds)', [40.8496, -73.9356]): 473.57260273972605
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.8496, -73.9356]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7152, -73.9877]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7152, -73.9877]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7152, -73.9877]): 823.3726027397261
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7166, -74.0146]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7166, -74.0146]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7166, -74.0146]): 24.339726027397262
+('NYU Hospitals Center (944.0 beds)', [40.7166, -74.0146]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7255, -73.9983]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7255, -73.9983]): 219.34520547945206
+('Bellevue Hospital Center (980.0 beds)', [40.7375, -73.9813]): 307.8054794520548
+('NYU Hospitals Center (944.0 beds)', [40.7375, -73.9813]): 0.0
+('Richmond University Medical Center (370.0 beds)', [40.5682, -74.1184]): 0.0
+('Staten Island University Hosp-North (582.0 beds)', [40.5682, -74.1184]): 326.35890410958905
+('Woodhull Medical & Mental Health Center (299.0 beds)', [40.6907, -73.9274]): 0.0
+('Interfaith Medical Center (267.0 beds)', [40.6907, -73.9274]): 872.0027397260274
+('Wyckoff Heights Medical Center (279.0 beds)', [40.6907, -73.9274]): 0.0
+('Woodhull Medical & Mental Health Center (299.0 beds)', [40.7012, -73.9436]): 840.9095890410958
+('Wyckoff Heights Medical Center (279.0 beds)', [40.7012, -73.9436]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7143, -74.006]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7143, -74.006]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7143, -74.006]): 103.94794520547946
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6769, -73.8448]): 0.0
+('Interfaith Medical Center (267.0 beds)', [40.6769, -73.8448]): 177.46301369863014
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.6769, -73.8448]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6769, -73.8448]): 0.0
+('Wyckoff Heights Medical Center (279.0 beds)', [40.6769, -73.8448]): 0.0
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.6769, -73.8448]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6769, -73.8448]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7185, -74.0025]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7185, -74.0025]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7185, -74.0025]): 419.0082191780822
+('NYU Hospitals Center (944.0 beds)', [40.7185, -74.0025]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.5923, -73.7933]): 0.0
+('St Johns Episcopal Hospital So Shore (268.0 beds)', [40.5923, -73.7933]): 172.08219178082192
+('Jamaica Hospital Medical Center (484.0 beds)', [40.5923, -73.7933]): 0.0
+('Maimonides Medical Center (936.0 beds)', [40.6174, -74.0121]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.6174, -74.0121]): 0.0
+('Coney Island Hospital (503.0 beds)', [40.6174, -74.0121]): 0.0
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.6174, -74.0121]): 170.14520547945204
+('Flushing Hospital Medical Center (314.0 beds)', [40.7374, -73.7951]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7374, -73.7951]): 168.77534246575343
+('Queens Hospital Center (546.0 beds)', [40.7374, -73.7951]): 0.0
+('Richmond University Medical Center (370.0 beds)', [40.6039, -74.1472]): 451.15890410958906
+('Staten Island University Hosp-North (582.0 beds)', [40.6039, -74.1472]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7313, -73.9892]): 658.4876712328767
+('NYU Hospitals Center (944.0 beds)', [40.7313, -73.9892]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7764, -73.9827]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7764, -73.9827]): 347.8767123287671
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7764, -73.9827]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7764, -73.9827]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6868, -73.823]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6868, -73.823]): 285.8958904109589
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.8662, -73.9003]): 0.0
+('North Central Bronx Hospital (256.0 beds)', [40.8662, -73.9003]): 0.0
+('New York Presbyterian Hospital - Allen Pavilion (296.0 beds)', [40.8662, -73.9003]): 790.2301369863013
+('Elmhurst Hospital Center (571.0 beds)', [40.7446, -73.9345]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7446, -73.9345]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7446, -73.9345]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7446, -73.9345]): 446.6082191780822
+('Metropolitan Hospital Center (287.0 beds)', [40.7446, -73.9345]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7446, -73.9345]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7446, -73.9345]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7402, -73.9996]): 511.3917808219178
+('NYU Hospitals Center (944.0 beds)', [40.7402, -73.9996]): 0.0
+('Maimonides Medical Center (936.0 beds)', [40.6336, -73.996]): 272.3972602739726
+('New York Methodist Hospital (630.0 beds)', [40.6336, -73.996]): 0.0
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6838, -73.8514]): 0.0
+('Woodhull Medical & Mental Health Center (299.0 beds)', [40.6838, -73.8514]): 0.0
+('Interfaith Medical Center (267.0 beds)', [40.6838, -73.8514]): 146.6
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.6838, -73.8514]): 0.0
+('Elmhurst Hospital Center (571.0 beds)', [40.6838, -73.8514]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6838, -73.8514]): 0.0
+('Wyckoff Heights Medical Center (279.0 beds)', [40.6838, -73.8514]): 0.0
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.6838, -73.8514]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6838, -73.8514]): 0.0
+('Lincoln Medical & Mental Health Center (496.0 beds)', [40.8085, -73.9198]): 663.0849315068493
+('Harlem Hospital Center (418.0 beds)', [40.8085, -73.9198]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.7119, -73.7944]): 576.413698630137
+('Jamaica Hospital Medical Center (484.0 beds)', [40.7119, -73.7944]): 0.0
+('New York Methodist Hospital (630.0 beds)', [40.679, -73.9644]): 0.0
+('Interfaith Medical Center (267.0 beds)', [40.679, -73.9644]): 421.44931506849315
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.8194, -73.8606]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.8194, -73.8606]): 596.9479452054794
+('Jacobi Medical Center (489.0 beds)', [40.8194, -73.8606]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.6816, -73.9798]): 407.1287671232877
+('New York Methodist Hospital (630.0 beds)', [40.6816, -73.9798]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6775, -73.7758]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6775, -73.7758]): 541.8383561643835
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6705, -73.894]): 1250.9123287671232
+('Interfaith Medical Center (267.0 beds)', [40.6705, -73.894]): 0.0
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.6705, -73.894]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7143, -74.006]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7143, -74.006]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7143, -74.006]): 128.38082191780822
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6625, -73.9145]): 1183.572602739726
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.6625, -73.9145]): 0.0
+('Lincoln Medical & Mental Health Center (496.0 beds)', [40.8316, -73.9099]): 1294.4465753424658
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.8316, -73.9099]): 0.0
+('Maimonides Medical Center (936.0 beds)', [40.6016, -73.9968]): 0.0
+('Coney Island Hospital (503.0 beds)', [40.6016, -73.9968]): 454.8931506849315
+('New York Presbyterian Hospital - Allen Pavilion (296.0 beds)', [40.852, -73.9129]): 1005.1041095890411
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.852, -73.9129]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.5839, -73.9536]): 0.0
+('Coney Island Hospital (503.0 beds)', [40.5839, -73.9536]): 589.0493150684931
+('Bellevue Hospital Center (980.0 beds)', [40.7262, -73.9796]): 583.0219178082192
+('NYU Hospitals Center (944.0 beds)', [40.7262, -73.9796]): 0.0
+('Mount Sinai Hospital (1313.0 beds)', [40.8116, -73.955]): 0.0
+('Harlem Hospital Center (418.0 beds)', [40.8116, -73.955]): 789.9041095890411
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.8409, -73.8794]): 0.0
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.8409, -73.8794]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.8409, -73.8794]): 790.8383561643835
+('Jacobi Medical Center (489.0 beds)', [40.8409, -73.8794]): 0.0
+('North Central Bronx Hospital (256.0 beds)', [40.8409, -73.8794]): 0.0
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.8409, -73.8794]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.5766, -73.8428]): 0.0
+('Coney Island Hospital (503.0 beds)', [40.5766, -73.8428]): 0.0
+('St Johns Episcopal Hospital So Shore (268.0 beds)', [40.5766, -73.8428]): 0.0
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.5766, -73.8428]): 140.21369863013697
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7597, -73.9918]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7597, -73.9918]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7597, -73.9918]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7597, -73.9918]): 648.6575342465753
+('University Hospital of Brooklyn (342.0 beds)', [40.6467, -73.957]): 886.1972602739726
+('Kings County Hospital Center (639.0 beds)', [40.6467, -73.957]): 0.0
+('Maimonides Medical Center (936.0 beds)', [40.6521, -74.0018]): 203.23835616438356
+('New York Methodist Hospital (630.0 beds)', [40.6521, -74.0018]): 0.0
+('Harlem Hospital Center (418.0 beds)', [40.8382, -73.942]): 0.0
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.8382, -73.942]): 579.8821917808219
+('Lincoln Medical & Mental Health Center (496.0 beds)', [40.8222, -73.9217]): 850.8109589041096
+('Harlem Hospital Center (418.0 beds)', [40.8222, -73.9217]): 0.0
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.8633, -73.8895]): 0.0
+('North Central Bronx Hospital (256.0 beds)', [40.8633, -73.8895]): 949.1342465753424
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.5979, -73.9743]): 0.0
+('Coney Island Hospital (503.0 beds)', [40.5979, -73.9743]): 0.0
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.5979, -73.9743]): 375.13698630136986
+('Bellevue Hospital Center (980.0 beds)', [40.7484, -73.9967]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7484, -73.9967]): 763.0356164383562
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7351, -73.8776]): 0.0
+('Elmhurst Hospital Center (571.0 beds)', [40.7351, -73.8776]): 473.0383561643836
+('Wyckoff Heights Medical Center (279.0 beds)', [40.7351, -73.8776]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7763, -73.9529]): 222.4027397260274
+('Lenox Hill Hospital (652.0 beds)', [40.7763, -73.9529]): 0.0
+('Mount Sinai Hospital (1313.0 beds)', [40.7808, -73.9772]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7808, -73.9772]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7808, -73.9772]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.7808, -73.9772]): 7.791780821917809
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7808, -73.9772]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7808, -73.9772]): 0.0
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6784, -73.9211]): 0.0
+('Interfaith Medical Center (267.0 beds)', [40.6784, -73.9211]): 943.2657534246575
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7513, -73.883]): 0.0
+('Elmhurst Hospital Center (571.0 beds)', [40.7513, -73.883]): 407.15616438356165
+('Richmond University Medical Center (370.0 beds)', [40.6306, -74.1379]): 148.33972602739726
+('Staten Island University Hosp-North (582.0 beds)', [40.6306, -74.1379]): 0.0
+('Woodhull Medical & Mental Health Center (299.0 beds)', [40.7036, -73.8961]): 0.0
+('Elmhurst Hospital Center (571.0 beds)', [40.7036, -73.8961]): 0.0
+('Wyckoff Heights Medical Center (279.0 beds)', [40.7036, -73.8961]): 489.2082191780822
+('Harlem Hospital Center (418.0 beds)', [40.8265, -73.9383]): 304.6575342465753
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.8265, -73.9383]): 0.0
+('Woodhull Medical & Mental Health Center (299.0 beds)', [40.7095, -73.9563]): 377.32602739726025
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7095, -73.9563]): 0.0
+('Interfaith Medical Center (267.0 beds)', [40.7095, -73.9563]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7095, -73.9563]): 0.0
+('Wyckoff Heights Medical Center (279.0 beds)', [40.7095, -73.9563]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7095, -73.9563]): 0.0
+('Mount Sinai Hospital (1313.0 beds)', [40.8019, -73.9531]): 0.0
+('Harlem Hospital Center (418.0 beds)', [40.8019, -73.9531]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.8019, -73.9531]): 396.17808219178085
+('Queens Hospital Center (546.0 beds)', [40.7142, -73.7677]): 182.9150684931507
+('Jamaica Hospital Medical Center (484.0 beds)', [40.7142, -73.7677]): 0.0
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.8798, -73.9067]): 0.0
+('North Central Bronx Hospital (256.0 beds)', [40.8798, -73.9067]): 0.0
+('New York Presbyterian Hospital - Allen Pavilion (296.0 beds)', [40.8798, -73.9067]): 500.4876712328767
+('Mount Sinai Hospital (1313.0 beds)', [40.7975, -73.9683]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.7975, -73.9683]): 712.1178082191781
+('Lenox Hill Hospital (652.0 beds)', [40.7975, -73.9683]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7339, -74.0054]): 247.27123287671233
+('NYU Hospitals Center (944.0 beds)', [40.7339, -74.0054]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.6281, -73.9467]): 0.0
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.6281, -73.9467]): 360.3835616438356
+('Woodhull Medical & Mental Health Center (299.0 beds)', [40.6794, -73.9496]): 0.0
+('New York Methodist Hospital (630.0 beds)', [40.6794, -73.9496]): 0.0
+('University Hospital of Brooklyn (342.0 beds)', [40.6794, -73.9496]): 0.0
+('Interfaith Medical Center (267.0 beds)', [40.6794, -73.9496]): 622.7178082191781
+('Kings County Hospital Center (639.0 beds)', [40.6794, -73.9496]): 0.0
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.6794, -73.9496]): 0.0
+('Harlem Hospital Center (418.0 beds)', [40.8246, -73.9507]): 502.586301369863
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.8246, -73.9507]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6969, -73.7877]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6969, -73.7877]): 375.5835616438356
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.5767, -73.9884]): 645.0958904109589
+('Coney Island Hospital (503.0 beds)', [40.5767, -73.9884]): 0.0
+('Lincoln Medical & Mental Health Center (496.0 beds)', [40.8139, -73.8841]): 223.6821917808219
+('Harlem Hospital Center (418.0 beds)', [40.8139, -73.8841]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7453, -73.8611]): 537.7232876712329
+('Elmhurst Hospital Center (571.0 beds)', [40.7453, -73.8611]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6744, -73.819]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6744, -73.819]): 255.9890410958904
+('Elmhurst Hospital Center (571.0 beds)', [40.745, -73.9069]): 398.92328767123286
+('Wyckoff Heights Medical Center (279.0 beds)', [40.745, -73.9069]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.6225, -73.965]): 0.0
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.6225, -73.965]): 384.9945205479452
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.8434, -73.8602]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.8434, -73.8602]): 618.7068493150684
+('Jacobi Medical Center (489.0 beds)', [40.8434, -73.8602]): 0.0
+('Lincoln Medical & Mental Health Center (496.0 beds)', [40.8247, -73.894]): 774.0356164383562
+('Harlem Hospital Center (418.0 beds)', [40.8247, -73.894]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7101, -74.0013]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7101, -74.0013]): 221.16438356164383
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.8904, -73.8503]): 0.0
+('North Central Bronx Hospital (256.0 beds)', [40.8904, -73.8503]): 584.0712328767123
+('Mount Sinai Hospital (1313.0 beds)', [40.8011, -73.9371]): 0.0
+('Harlem Hospital Center (418.0 beds)', [40.8011, -73.9371]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.8011, -73.9371]): 943.4054794520548
+('New York Presbyterian Hospital - Allen Pavilion (296.0 beds)', [40.8583, -73.9296]): 283.4356164383562
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.8583, -73.9296]): 0.0
+('Staten Island University Hosp-North (582.0 beds)', [40.5457, -74.1792]): 0.0
+('Staten Island University Hosp-South (194.0 beds)', [40.5457, -74.1792]): 224.586301369863
+('Richmond University Medical Center (370.0 beds)', [40.6102, -74.0878]): 356.6191780821918
+('Staten Island University Hosp-North (582.0 beds)', [40.6102, -74.0878]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7547, -73.9925]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7547, -73.9925]): 406.95342465753424
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.7855, -73.845]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7855, -73.845]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.7855, -73.845]): 91.26027397260275
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7855, -73.845]): 0.0
+('Lincoln Medical & Mental Health Center (496.0 beds)', [40.8376, -73.9216]): 897.8602739726027
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.8376, -73.9216]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7229, -73.8473]): 322.9205479452055
+('Queens Hospital Center (546.0 beds)', [40.7229, -73.8473]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.7229, -73.8473]): 0.0
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.8737, -73.8712]): 0.0
+('North Central Bronx Hospital (256.0 beds)', [40.8737, -73.8712]): 985.5972602739726
+('University Hospital of Brooklyn (342.0 beds)', [40.6451, -73.945]): 137.24657534246575
+('Kings County Hospital Center (639.0 beds)', [40.6451, -73.945]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7085, -74.0135]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7085, -74.0135]): 35.95342465753425
+('Queens Hospital Center (546.0 beds)', [40.6621, -73.7353]): 0.0
+('St Johns Episcopal Hospital So Shore (268.0 beds)', [40.6621, -73.7353]): 155.63013698630138
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6621, -73.7353]): 0.0
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.8662, -73.9221]): 0.0
+('North Central Bronx Hospital (256.0 beds)', [40.8662, -73.9221]): 0.0
+('New York Presbyterian Hospital - Allen Pavilion (296.0 beds)', [40.8662, -73.9221]): 301.5917808219178
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.8662, -73.9221]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.6669, -73.9828]): 0.0
+('New York Methodist Hospital (630.0 beds)', [40.6669, -73.9828]): 328.49041095890414
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.6205, -73.9239]): 0.0
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.6205, -73.9239]): 457.96438356164384
+('Flushing Hospital Medical Center (314.0 beds)', [40.7606, -73.7968]): 115.89315068493151
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7606, -73.7968]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.7606, -73.7968]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7627, -73.9149]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7627, -73.9149]): 188.2931506849315
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7627, -73.9149]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.6794, -74.0014]): 0.0
+('New York Methodist Hospital (630.0 beds)', [40.6794, -74.0014]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.6794, -74.0014]): 256.52054794520546
+('Flushing Hospital Medical Center (314.0 beds)', [40.7347, -73.723]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7347, -73.723]): 74.47671232876712
+('Queens Hospital Center (546.0 beds)', [40.7347, -73.723]): 0.0
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6407, -73.9028]): 621.4410958904109
+('University Hospital of Brooklyn (342.0 beds)', [40.6407, -73.9028]): 0.0
+('Kings County Hospital Center (639.0 beds)', [40.6407, -73.9028]): 0.0
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.6407, -73.9028]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.694, -73.9903]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.694, -73.9903]): 811.3643835616439
+('Richmond University Medical Center (370.0 beds)', [40.6324, -74.1171]): 175.8849315068493
+('Staten Island University Hosp-North (582.0 beds)', [40.6324, -74.1171]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7038, -74.0098]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7038, -74.0098]): 3.5013698630136987
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.8486, -73.8999]): 0.0
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.8486, -73.8999]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.8486, -73.8999]): 1159.0931506849315
+('North Central Bronx Hospital (256.0 beds)', [40.8486, -73.8999]): 0.0
+('New York Presbyterian Hospital - Allen Pavilion (296.0 beds)', [40.8486, -73.8999]): 0.0
+('New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds)', [40.8486, -73.8999]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.7029, -73.8111]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.7029, -73.8111]): 468.81369863013697
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.8295, -73.8716]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.8295, -73.8716]): 682.786301369863
+('Jacobi Medical Center (489.0 beds)', [40.8295, -73.8716]): 0.0
+('Mount Sinai Hospital (1313.0 beds)', [40.7816, -73.9511]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.7816, -73.9511]): 279.73150684931505
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6076, -73.8198]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.6076, -73.8198]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6076, -73.8198]): 0.0
+('St Johns Episcopal Hospital So Shore (268.0 beds)', [40.6076, -73.8198]): 0.0
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.6076, -73.8198]): 135.52602739726026
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6076, -73.8198]): 0.0
+('Lincoln Medical & Mental Health Center (496.0 beds)', [40.8135, -73.9381]): 0.0
+('Harlem Hospital Center (418.0 beds)', [40.8135, -73.9381]): 255.95068493150686
+('Maimonides Medical Center (936.0 beds)', [40.6179, -73.9856]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.6179, -73.9856]): 0.0
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.6179, -73.9856]): 314.73972602739724
+('University Hospital of Brooklyn (342.0 beds)', [40.6628, -73.9546]): 447.06575342465754
+('Kings County Hospital Center (639.0 beds)', [40.6628, -73.9546]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6982, -73.8345]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6982, -73.8345]): 233.6958904109589
+('University Hospital of Brooklyn (342.0 beds)', [40.6505, -73.9349]): 0.0
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.6505, -73.9349]): 641.1041095890411
+('Woodhull Medical & Mental Health Center (299.0 beds)', [40.7272, -73.9498]): 249.1068493150685
+('Bellevue Hospital Center (980.0 beds)', [40.7272, -73.9498]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7272, -73.9498]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7517, -73.9707]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7517, -73.9707]): 334.52054794520546
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7139, -74.007]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7139, -74.007]): 149.85479452054796
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6006, -73.758]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.6006, -73.758]): 0.0
+('Coney Island Hospital (503.0 beds)', [40.6006, -73.758]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6006, -73.758]): 0.0
+('St Johns Episcopal Hospital So Shore (268.0 beds)', [40.6006, -73.758]): 525.8438356164384
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.6006, -73.758]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6006, -73.758]): 0.0
+('Richmond University Medical Center (370.0 beds)', [40.5973, -74.0768]): 0.0
+('Staten Island University Hosp-North (582.0 beds)', [40.5973, -74.0768]): 271.1397260273973
+('Richmond University Medical Center (370.0 beds)', [40.5352, -74.2116]): 0.0
+('Staten Island University Hosp-North (582.0 beds)', [40.5352, -74.2116]): 0.0
+('Staten Island University Hosp-South (194.0 beds)', [40.5352, -74.2116]): 132.84931506849315
+('Mount Sinai Hospital (1313.0 beds)', [40.7763, -73.911]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7763, -73.911]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7763, -73.911]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.7763, -73.911]): 152.84657534246574
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7763, -73.911]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7763, -73.911]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7591, -73.7326]): 68.26027397260275
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7591, -73.7326]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7651, -73.9638]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7651, -73.9638]): 222.35890410958905
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7651, -73.9638]): 0.0
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.8465, -73.841]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.8465, -73.841]): 489.3315068493151
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7608, -73.9295]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7608, -73.9295]): 252.1013698630137
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7608, -73.9295]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7611, -73.8916]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7611, -73.8916]): 0.0
+('Elmhurst Hospital Center (571.0 beds)', [40.7611, -73.8916]): 270.4356164383562
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7611, -73.8916]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7611, -73.8916]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.7611, -73.8916]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7611, -73.8916]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7611, -73.8916]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7536, -73.8226]): 325.8383561643836
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7536, -73.8226]): 0.0
+('Elmhurst Hospital Center (571.0 beds)', [40.7239, -73.8997]): 0.0
+('Wyckoff Heights Medical Center (279.0 beds)', [40.7239, -73.8997]): 157.6027397260274
+('Queens Hospital Center (546.0 beds)', [40.6958, -73.7617]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6958, -73.7617]): 238.6054794520548
+('Elmhurst Hospital Center (571.0 beds)', [40.7173, -73.8792]): 0.0
+('Wyckoff Heights Medical Center (279.0 beds)', [40.7173, -73.8792]): 133.5095890410959
+('Richmond University Medical Center (370.0 beds)', [40.6316, -74.0927]): 424.3095890410959
+('Staten Island University Hosp-North (582.0 beds)', [40.6316, -74.0927]): 0.0
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.8729, -73.8278]): 0.0
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.8729, -73.8278]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.8729, -73.8278]): 335.45205479452056
+('Jacobi Medical Center (489.0 beds)', [40.8729, -73.8278]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7277, -73.7489]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7277, -73.7489]): 191.04657534246576
+('Queens Hospital Center (546.0 beds)', [40.7277, -73.7489]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.7277, -73.7489]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7627, -73.7745]): 110.9041095890411
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7627, -73.7745]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.7627, -73.7745]): 0.0
+('Richmond University Medical Center (370.0 beds)', [40.6301, -74.1607]): 192.33972602739726
+('Staten Island University Hosp-North (582.0 beds)', [40.6301, -74.1607]): 0.0
+('Maimonides Medical Center (936.0 beds)', [40.6412, -74.0133]): 532.7780821917809
+('New York Methodist Hospital (630.0 beds)', [40.6412, -74.0133]): 0.0
+('University Hospital of Brooklyn (342.0 beds)', [40.6412, -74.0133]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.6412, -74.0133]): 0.0
+('Maimonides Medical Center (936.0 beds)', [40.6424, -73.9758]): 0.0
+('New York Methodist Hospital (630.0 beds)', [40.6424, -73.9758]): 353.52054794520546
+('Woodhull Medical & Mental Health Center (299.0 beds)', [40.6924, -73.9666]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.6924, -73.9666]): 369.73424657534247
+('New York Methodist Hospital (630.0 beds)', [40.6924, -73.9666]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.6924, -73.9666]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7667, -73.8241]): 365.2
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7667, -73.8241]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.6011, -73.9475]): 385.05205479452053
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.6011, -73.9475]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7851, -73.8096]): 132.7945205479452
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7851, -73.8096]): 0.0
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6588, -73.8438]): 134.83561643835617
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6588, -73.8438]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7613, -73.8739]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7613, -73.8739]): 182.25753424657535
+('Elmhurst Hospital Center (571.0 beds)', [40.7613, -73.8739]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7613, -73.8739]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7613, -73.8739]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7613, -73.8739]): 0.0
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.9, -73.8622]): 0.0
+('North Central Bronx Hospital (256.0 beds)', [40.9, -73.8622]): 134.86027397260273
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.728, -73.8195]): 169.6054794520548
+('Queens Hospital Center (546.0 beds)', [40.728, -73.8195]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6763, -73.7966]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6763, -73.7966]): 133.4
+('Queens Hospital Center (546.0 beds)', [40.709, -73.7401]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.709, -73.7401]): 158.6027397260274
+('Mount Sinai Hospital (1313.0 beds)', [40.7864, -73.9764]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7864, -73.9764]): 318.54246575342466
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7685, -73.9588]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7685, -73.9588]): 215.36986301369862
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7685, -73.9588]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7685, -73.9588]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7208, -73.7433]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7208, -73.7433]): 107.40547945205479
+('Queens Hospital Center (546.0 beds)', [40.7208, -73.7433]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.7208, -73.7433]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7496, -73.9919]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7496, -73.9919]): 31.63013698630137
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.8702, -73.8495]): 0.0
+('Jacobi Medical Center (489.0 beds)', [40.8702, -73.8495]): 498.17808219178085
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7706, -73.9265]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7706, -73.9265]): 199.42739726027398
+('Metropolitan Hospital Center (287.0 beds)', [40.7706, -73.9265]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7706, -73.9265]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7706, -73.9265]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6947, -73.7374]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6947, -73.7374]): 104.25205479452055
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.9011, -73.9053]): 0.0
+('North Central Bronx Hospital (256.0 beds)', [40.9011, -73.9053]): 132.67397260273972
+('New York Presbyterian Hospital - Allen Pavilion (296.0 beds)', [40.9011, -73.9053]): 0.0
+('Wyckoff Heights Medical Center (279.0 beds)', [40.6913, -73.8585]): 191.17808219178082
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6913, -73.8585]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7278, -73.8602]): 203.72328767123287
+('Elmhurst Hospital Center (571.0 beds)', [40.7278, -73.8602]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6645, -73.7559]): 0.0
+('St Johns Episcopal Hospital So Shore (268.0 beds)', [40.6645, -73.7559]): 241.2931506849315
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6645, -73.7559]): 0.0
+('Elmhurst Hospital Center (571.0 beds)', [40.7436, -73.9216]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7436, -73.9216]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7436, -73.9216]): 0.0
+('Wyckoff Heights Medical Center (279.0 beds)', [40.7436, -73.9216]): 126.44931506849315
+('Hospital for Special Surgery (279.0 beds)', [40.7436, -73.9216]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7436, -73.9216]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7436, -73.9216]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7481, -73.7114]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7481, -73.7114]): 64.96712328767123
+('Flushing Hospital Medical Center (314.0 beds)', [40.7807, -73.7812]): 78.12054794520547
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7807, -73.7812]): 0.0
+('Staten Island University Hosp-North (582.0 beds)', [40.5518, -74.1526]): 0.0
+('Staten Island University Hosp-South (194.0 beds)', [40.5518, -74.1526]): 110.63013698630137
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6497, -73.8824]): 0.0
+('University Hospital of Brooklyn (342.0 beds)', [40.6497, -73.8824]): 0.0
+('Kings County Hospital Center (639.0 beds)', [40.6497, -73.8824]): 0.0
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.6497, -73.8824]): 149.83013698630137
+('Richmond University Medical Center (370.0 beds)', [40.5085, -74.2445]): 0.0
+('Staten Island University Hosp-North (582.0 beds)', [40.5085, -74.2445]): 0.0
+('Staten Island University Hosp-South (194.0 beds)', [40.5085, -74.2445]): 50.16438356164384
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7618, -73.9505]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7618, -73.9505]): 25.97808219178082
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.8469, -73.7874]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.8469, -73.7874]): 36.821917808219176
+('Queens Hospital Center (546.0 beds)', [40.7069, -73.8297]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.7069, -73.8297]): 104.2027397260274
+('Flushing Hospital Medical Center (314.0 beds)', [40.7428, -73.7588]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7428, -73.7588]): 113.72602739726027
+('Queens Hospital Center (546.0 beds)', [40.7428, -73.7588]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7105, -74.0163]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7105, -74.0163]): 19.147945205479452
+('Flushing Hospital Medical Center (314.0 beds)', [40.7571, -73.7182]): 32.172602739726024
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7571, -73.7182]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7236, -73.7058]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7236, -73.7058]): 14.210958904109589
+('Queens Hospital Center (546.0 beds)', [40.7236, -73.7058]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.7236, -73.7058]): 0.0
+('New York Community Hospital of     Brooklyn (189.0 beds)', [40.5594, -73.9067]): 0.0
+('Coney Island Hospital (503.0 beds)', [40.5594, -73.9067]): 0.0
+('Beth Israel Med Center-Kings Hwy Div (141.0 beds)', [40.5594, -73.9067]): 11.90958904109589
+('Flushing Hospital Medical Center (314.0 beds)', [40.7272, -73.7949]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7272, -73.7949]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.7272, -73.7949]): 80.66301369863014
+('Jamaica Hospital Medical Center (484.0 beds)', [40.7272, -73.7949]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7354, -73.9968]): 23.504109589041096
+('NYU Hospitals Center (944.0 beds)', [40.7354, -73.9968]): 0.0
+('University Hospital of Brooklyn (342.0 beds)', [40.6451, -73.945]): 0.6794520547945205
+('Kings County Hospital Center (639.0 beds)', [40.6451, -73.945]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7294, -73.6828]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7294, -73.6828]): 23.805479452054794
+('Queens Hospital Center (546.0 beds)', [40.7294, -73.6828]): 0.0
+('Jamaica Hospital Medical Center (484.0 beds)', [40.7294, -73.6828]): 0.0
+('Flushing Hospital Medical Center (314.0 beds)', [40.7722, -73.7454]): 25.2
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7722, -73.7454]): 0.0
+('Queens Hospital Center (546.0 beds)', [40.6472, -73.7827]): 0.0
+('St Johns Episcopal Hospital So Shore (268.0 beds)', [40.6472, -73.7827]): 81.63835616438357
+('Jamaica Hospital Medical Center (484.0 beds)', [40.6472, -73.7827]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7524, -73.9791]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7524, -73.9791]): 7.183561643835616
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7056, -74.0083]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7056, -74.0083]): 54.221917808219175
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7652, -73.9804]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7652, -73.9804]): 3.6054794520547944
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7652, -73.9804]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7652, -73.9804]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7089, -74.0111]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7089, -74.0111]): 1.5890410958904109
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7152, -74.0038]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7152, -74.0038]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7152, -74.0038]): 6.134246575342465
+('Bellevue Hospital Center (980.0 beds)', [40.7514, -73.9785]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7514, -73.9785]): 0.8136986301369863
+('Bellevue Hospital Center (980.0 beds)', [40.7519, -73.9768]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7519, -73.9768]): 6.443835616438356
+('Flushing Hospital Medical Center (314.0 beds)', [40.7928, -73.7767]): 17.96986301369863
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7928, -73.7767]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7494, -73.9758]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7494, -73.9758]): 0.5260273972602739
+('Bellevue Hospital Center (980.0 beds)', [40.7515, -73.9905]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7515, -73.9905]): 1.3068493150684932
+('Bellevue Hospital Center (980.0 beds)', [40.7547, -73.9766]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7547, -73.9766]): 1.6191780821917807
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7583, -73.9735]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7583, -73.9735]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7583, -73.9735]): 1.1397260273972603
+('NYU Hospitals Center (944.0 beds)', [40.7583, -73.9735]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7583, -73.9735]): 0.0
+('Mount Sinai Hospital (1313.0 beds)', [40.778, -73.9884]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.778, -73.9884]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.778, -73.9884]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.778, -73.9884]): 10.610958904109589
+('Metropolitan Hospital Center (287.0 beds)', [40.778, -73.9884]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.778, -73.9884]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.778, -73.9884]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.778, -73.9884]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7628, -73.9785]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7628, -73.9785]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7628, -73.9785]): 1.3232876712328767
+('NYU Hospitals Center (944.0 beds)', [40.7628, -73.9785]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7628, -73.9785]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7628, -73.9785]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7564, -73.9748]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7564, -73.9748]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7564, -73.9748]): 0.5150684931506849
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7564, -73.9748]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7664, -73.9827]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7664, -73.9827]): 1.4712328767123288
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7664, -73.9827]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7664, -73.9827]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7553, -73.9761]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7553, -73.9761]): 0.3013698630136986
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7127, -74.0078]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7127, -74.0078]): 0.6986301369863014
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7641, -73.9735]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7641, -73.9735]): 3.5972602739726027
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7641, -73.9735]): 0.0
+('University Hospital of Brooklyn (342.0 beds)', [40.6451, -73.945]): 0.9232876712328767
+('Kings County Hospital Center (639.0 beds)', [40.6451, -73.945]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7146, -74.015]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7146, -74.015]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7146, -74.015]): 6.832876712328767
+('NYU Hospitals Center (944.0 beds)', [40.7146, -74.015]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.749, -73.9865]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.749, -73.9865]): 4.090410958904109
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7593, -73.9798]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7593, -73.9798]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7593, -73.9798]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7593, -73.9798]): 6.049315068493151
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7611, -73.968]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7611, -73.968]): 0.40821917808219177
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7611, -73.968]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7699, -73.9511]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7699, -73.9511]): 4.53972602739726
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7699, -73.9511]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7454, -73.9575]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7454, -73.9575]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7454, -73.9575]): 7.301369863013699
+('NYU Hospitals Center (944.0 beds)', [40.7454, -73.9575]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7454, -73.9575]): 0.0
+('Brookdale Hospital Medical Center (365.0 beds)', [40.6514, -73.8708]): 0.0
+('University Hospital of Brooklyn (342.0 beds)', [40.6514, -73.8708]): 0.0
+('Kings County Hospital Center (639.0 beds)', [40.6514, -73.8708]): 0.0
+('Kingsbrook Jewish Medical Center (267.0 beds)', [40.6514, -73.8708]): 1.0
+('University Hospital of Brooklyn (342.0 beds)', [40.6451, -73.945]): 1.0986301369863014
+('Kings County Hospital Center (639.0 beds)', [40.6451, -73.945]): 0.0
+('Mount Sinai Hospital (1313.0 beds)', [40.7808, -73.9772]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7808, -73.9772]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7808, -73.9772]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.7808, -73.9772]): 0.5534246575342465
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7808, -73.9772]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7808, -73.9772]): 0.0
+('Mount Sinai Hospital (1313.0 beds)', [40.8111, -73.9642]): 0.0
+('Harlem Hospital Center (418.0 beds)', [40.8111, -73.9642]): 0.40273972602739727
+('Bellevue Hospital Center (980.0 beds)', [40.7506, -73.9894]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7506, -73.9894]): 1.6027397260273972
+('Bellevue Hospital Center (980.0 beds)', [40.7526, -73.9755]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7526, -73.9755]): 1.2164383561643837
+('Bellevue Hospital Center (980.0 beds)', [40.7517, -73.9752]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7517, -73.9752]): 0.7589041095890411
+('Bellevue Hospital Center (980.0 beds)', [40.7543, -73.9796]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7543, -73.9796]): 0.3589041095890411
+('Bellevue Hospital Center (980.0 beds)', [40.7518, -73.9922]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7518, -73.9922]): 0.6356164383561644
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7634, -73.974]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7634, -73.974]): 0.40273972602739727
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7634, -73.974]): 0.0
+('Mount Sinai Hospital (1313.0 beds)', [40.7808, -73.9772]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7808, -73.9772]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7808, -73.9772]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.7808, -73.9772]): 0.6904109589041096
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7808, -73.9772]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7808, -73.9772]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7556, -73.9789]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7556, -73.9789]): 0.4301369863013699
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7589, -73.973]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7589, -73.973]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7589, -73.973]): 0.3561643835616438
+('NYU Hospitals Center (944.0 beds)', [40.7589, -73.973]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7589, -73.973]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7589, -73.973]): 0.0
+('Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds)', [40.9045, -73.8073]): 0.0
+('Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds)', [40.9045, -73.8073]): 0.0
+('Calvary Hospital Inc (72.0 beds)', [40.9045, -73.8073]): 0.4246575342465753
+('Jacobi Medical Center (489.0 beds)', [40.9045, -73.8073]): 0.0
+('North Central Bronx Hospital (256.0 beds)', [40.9045, -73.8073]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7603, -73.9762]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7603, -73.9762]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7603, -73.9762]): 2.9232876712328766
+('NYU Hospitals Center (944.0 beds)', [40.7603, -73.9762]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7603, -73.9762]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7558, -73.9753]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7558, -73.9753]): 1.8684931506849316
+('Bellevue Hospital Center (980.0 beds)', [40.7549, -73.975]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7549, -73.975]): 0.7013698630136986
+('Bellevue Hospital Center (980.0 beds)', [40.754, -73.9808]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.754, -73.9808]): 0.5561643835616439
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7592, -73.9778]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7592, -73.9778]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7592, -73.9778]): 3.643835616438356
+('NYU Hospitals Center (944.0 beds)', [40.7592, -73.9778]): 0.0
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7592, -73.9778]): 0.0
+('Mount Sinai Hospital (1313.0 beds)', [40.7808, -73.9772]): 0.0
+('New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds)', [40.7808, -73.9772]): 0.0
+('Hospital for Special Surgery (279.0 beds)', [40.7808, -73.9772]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.7808, -73.9772]): 0.15342465753424658
+('Memorial Hospital for Cancer and Allied Diseases (643.0 beds)', [40.7808, -73.9772]): 0.0
+('Lenox Hill Hospital (652.0 beds)', [40.7808, -73.9772]): 0.0
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7086, -74.0087]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7086, -74.0087]): 0.08767123287671233
+('Flushing Hospital Medical Center (314.0 beds)', [40.7721, -73.8735]): 0.0
+('New York Hospital Medical Center   of Queens (278.0 beds)', [40.7721, -73.8735]): 0.13424657534246576
+('Elmhurst Hospital Center (571.0 beds)', [40.7721, -73.8735]): 0.0
+('Metropolitan Hospital Center (287.0 beds)', [40.7721, -73.8735]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7546, -73.9762]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7546, -73.9762]): 0.0273972602739726
+('Bellevue Hospital Center (980.0 beds)', [40.7543, -73.9798]): 0.0
+('NYU Hospitals Center (944.0 beds)', [40.7543, -73.9798]): 0.0027397260273972603
+('Brooklyn Hospital Center - Downtown Campus (432.0 beds)', [40.7143, -74.006]): 0.0
+('Bellevue Hospital Center (980.0 beds)', [40.7143, -74.006]): 0.0
+('Long Island College Hospital (279.0 beds)', [40.7143, -74.006]): 0.00821917808219178
+Richmond University Medical Center (370.0 beds): 1748.6520547945208
+Brookdale Hospital Medical Center (365.0 beds): 3190.7616438356167
+Mount Sinai Hospital (1313.0 beds): -0.0
+Maimonides Medical Center (936.0 beds): 1008.4136986301371
+New York Community Hospital of     Brooklyn (189.0 beds): 1030.1479452054793
+Woodhull Medical & Mental Health Center (299.0 beds): 1467.3424657534247
+Brooklyn Hospital Center - Downtown Campus (432.0 beds): 776.8630136986301
+Montefiore Medical Center - Henry & Lucy Moses Div (1146.0 beds): -0.0
+New York Methodist Hospital (630.0 beds): 682.0109589041097
+University Hospital of Brooklyn (342.0 beds): 1473.2109589041092
+Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div (526.0 beds): -0.0
+Flushing Hospital Medical Center (314.0 beds): 1272.3534246575343
+Calvary Hospital Inc (72.0 beds): 5091.038356164383
+Lincoln Medical & Mental Health Center (496.0 beds): 5383.482191780823
+Staten Island University Hosp-North (582.0 beds): 597.4986301369863
+Interfaith Medical Center (267.0 beds): 4824.890410958904
+Coney Island Hospital (503.0 beds): 1043.9424657534246
+New York Hospital Medical Center   of Queens (278.0 beds): 2174.7780821917813
+Elmhurst Hospital Center (571.0 beds): 1549.5534246575344
+Staten Island University Hosp-South (194.0 beds): 518.2301369863014
+New York Presbyterian Hospital - New York Weill Cornell Center (998.0 beds): -0.0
+Queens Hospital Center (546.0 beds): 839.9917808219178
+Bellevue Hospital Center (980.0 beds): 2331.482191780822
+Jacobi Medical Center (489.0 beds): 498.17808219178085
+Harlem Hospital Center (418.0 beds): 2210.6301369863013
+Long Island College Hospital (279.0 beds): 3285.4739726027397
+Kings County Hospital Center (639.0 beds): -0.0
+Wyckoff Heights Medical Center (279.0 beds): 1500.482191780822
+North Central Bronx Hospital (256.0 beds): 2786.3369863013704
+Hospital for Special Surgery (279.0 beds): 2519.717808219178
+New York Presbyterian Hospital - Allen Pavilion (296.0 beds): 3354.4219178082194
+St Johns Episcopal Hospital So Shore (268.0 beds): 1176.4876712328767
+Beth Israel Med Center-Kings Hwy Div (141.0 beds): 2729.769863013699
+Metropolitan Hospital Center (287.0 beds): 3456.016438356164
+NYU Hospitals Center (944.0 beds): 2166.739726027397
+Memorial Hospital for Cancer and Allied Diseases (643.0 beds): 1248.1972602739727
+Lenox Hill Hospital (652.0 beds): 318.54246575342466
+Kingsbrook Jewish Medical Center (267.0 beds): 791.9342465753424
+New York Presbyterian Hospital - Columbia Presbyterian Center (1214.0 beds): 579.8821917808219
+Jamaica Hospital Medical Center (484.0 beds): 2900.8794520547945
