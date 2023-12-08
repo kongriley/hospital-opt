@@ -1,4 +1,4 @@
-from scipy.optimize import milp, linprog, LinearConstraint, Bounds
+from scipy.optimize import linprog
 import numpy as np
 import math
 
@@ -24,23 +24,56 @@ hospital_data = open_csv("hospitals_with_beds.csv")
 # hospital_names = 
 ems_data = open_csv("ems_aggregate.csv")
 
-CAR_SPEED = 20
+CAR_SPEED = 20.0
 HOSPITAL_COUNT = len(hospital_data)
 EMS_LOCATION_COUNT = len(ems_data)
 TIME_SLOTS = 10
 
-MAX_DISTANCE = 64
+MAX_DISTANCE = 15
 MIN_CANDIDATES = 3
+
 # Only consider hospitals within reasonable distance
 distances = []
-for ems_location in ems_data:
-	hospital_distances = [(distance(hospital, ems_location), i) for i, hospital in enumerate(hospital_data)]
+for ems_index, ems_location in enumerate(ems_data):
+	hospital_distances = [(distance(hospital, ems_location), i, ems_index) for i, hospital in enumerate(hospital_data)]
 	
 	closer_hospitals = hospital_distances.copy()
 	cur_distance = MAX_DISTANCE
 	while len(closer_hospitals) >= MIN_CANDIDATES and cur_distance > 0:
 		hospital_distances = closer_hospitals.copy()
-		closer_hospitals = [(distance, i) for distance, i in hospital_distances if distance < cur_distance]
-		cur_distance /= (2**0.5)
-	distances.append(hospital_distances)
+		closer_hospitals = [(distance, i, e_idx) for distance, i, e_idx in hospital_distances if distance < cur_distance]
+		cur_distance /= 1.4
+	distances += hospital_distances
 
+distances = {(h_idx, e_idx) : distance for distance, h_idx, e_idx in distances}
+
+# Assume all patients are immediately transported
+objective = [distance * hospital_data[h_idx][3] / (CAR_SPEED) for (h_idx, e_idx), distance in distances.items()] + [1.0/count for name, la, lo, count in hospital_data]
+
+# print(distances)
+
+A_eq = []
+b_eq = []
+bounds = [(0, None)] * (len(distances) + HOSPITAL_COUNT)
+
+# Constraints on moving all patients to hospitals
+for e_idx, (la, lo, patient_count) in enumerate(ems_data):
+	b_eq.append(patient_count)
+	constraint = [int(e_idx == j) for i, j in distances] + [0] * HOSPITAL_COUNT
+	A_eq.append(constraint)
+
+# Constraints on number of patients in hospitals
+for h_idx, (name, la, lo, bed_count) in enumerate(hospital_data):
+	b_eq.append(0)
+	constraint = [int(h_idx == i) for i, j in distances] + [-int(i == h_idx) for i in range(HOSPITAL_COUNT)]
+	A_eq.append(constraint)
+
+
+result = linprog(c=objective,A_eq=A_eq,b_eq=b_eq,bounds=bounds)
+with open("initial_results.txt", "w") as f:
+	hospital_names = list(map(lambda arg:arg[0], hospital_data))
+	transport_labels = list(map(lambda arg:(hospital_names[arg[0]], ems_data[arg[1]][:2]),distances.keys()))
+	for info, variable_val in zip(transport_labels + hospital_names, result.x):
+		f.write(f"{str(info)}: {str(variable_val)}\n")
+	# [f.write(f"{str(line)}\n") for line in result.x]
+print(result.x)
