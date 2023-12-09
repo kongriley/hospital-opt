@@ -143,18 +143,4 @@ def nearest_hospital_with_beds():
 					break
 	print(f"Found {str(c)} matches")
 
-
-def longest_common_substring(name, candidate):
-	dp = [[0 for j in range(len(candidate) + 1)] for i in range(len(name) + 1)]
-	for i in range(1, len(name) + 1):
-		for j in range(1, len(candidate) + 1):
-			include = int(name[i] == candidate[j])
-			dp[i + 1][j + 1] = max(dp[i][j] + include, dp[i - 1][j], dp[i][j - 1])
-	return dp[-1][-1]
-
-
-# hospital_locations()
-# nearest_hospital()
-# plot_ems()
-# nearest_hospital()
-# nearest_hospital_with_beds()
+plot_ems()

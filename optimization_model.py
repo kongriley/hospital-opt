@@ -25,7 +25,7 @@ ems_data = open_csv("ems_aggregate.csv")
 ems_hourly_data = open_csv("ems_proportion_by_hour.csv")
 
 CAR_SPEED = 20.0
-DATA_TIME_SPAN = 150.0
+DATA_TIME_SPAN = 365.0
 HOSPITAL_COUNT = len(hospital_data)
 EMS_LOCATION_COUNT = len(ems_data)
 TIME_SLOTS = len(ems_hourly_data)
